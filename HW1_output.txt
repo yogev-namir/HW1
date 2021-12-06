@@ -1,0 +1,6407 @@
+Initializing the game...
+------------------------- Round number 1 -------------------------
+Avi drew 4 of ♦
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 2 -------------------------
+Avi drew 8 of ♥
+Dani drew 7 of ♥
+Avi won
+------------------------- Round number 3 -------------------------
+Avi drew 5 of ♣
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 4 -------------------------
+Avi drew 4 of ♥
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 5 -------------------------
+Avi drew 4 of ♣
+Dani drew 4 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 6 of ♥
+Dani drew 8 of ♦
+Dani won the war
+------------------------- Round number 6 -------------------------
+Avi drew Jack of ♦
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 7 -------------------------
+Avi drew 3 of ♣
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 8 -------------------------
+Avi drew 7 of ♦
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 9 -------------------------
+Avi drew Jack of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 10 -------------------------
+Avi drew 5 of ♥
+Dani drew King of ♥
+Dani won
+------------------------- Round number 11 -------------------------
+Avi drew Ace of ♦
+Dani drew King of ♣
+Dani won
+------------------------- Round number 12 -------------------------
+Avi drew 9 of ♦
+Dani drew King of ♦
+Dani won
+------------------------- Round number 13 -------------------------
+Avi drew 2 of ♦
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 14 -------------------------
+Avi drew 6 of ♠
+Dani drew 6 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♠
+Dani drew 10 of ♠
+Avi won the war
+------------------------- Round number 15 -------------------------
+Avi drew 5 of ♦
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 16 -------------------------
+Avi drew Queen of ♥
+Dani drew 10 of ♣
+Avi won
+------------------------- Round number 17 -------------------------
+Avi drew 10 of ♥
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 18 -------------------------
+Avi drew 2 of ♠
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 19 -------------------------
+Avi drew 9 of ♣
+Dani drew 8 of ♠
+Avi won
+------------------------- Round number 20 -------------------------
+Avi drew Ace of ♠
+Dani drew 3 of ♥
+Dani won
+------------------------- Round number 21 -------------------------
+Avi drew 5 of ♣
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 22 -------------------------
+Avi drew 2 of ♣
+Dani drew 6 of ♦
+Dani won
+------------------------- Round number 23 -------------------------
+Avi drew 10 of ♣
+Dani drew King of ♦
+Dani won
+------------------------- Round number 24 -------------------------
+Avi drew 3 of ♠
+Dani drew 9 of ♦
+Dani won
+------------------------- Round number 25 -------------------------
+Avi drew 6 of ♠
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 26 -------------------------
+Avi drew 8 of ♠
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 27 -------------------------
+Avi drew 4 of ♥
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 28 -------------------------
+Avi drew 2 of ♥
+Dani drew 2 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 6 of ♣
+Dani drew Jack of ♣
+Dani won the war
+------------------------- Round number 29 -------------------------
+Avi drew Ace of ♣
+Dani drew 5 of ♥
+Dani won
+------------------------- Round number 30 -------------------------
+Avi drew 7 of ♥
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 31 -------------------------
+Avi drew 4 of ♦
+Dani drew King of ♣
+Dani won
+------------------------- Round number 32 -------------------------
+Avi drew 7 of ♦
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 33 -------------------------
+Avi drew 8 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 34 -------------------------
+Avi drew Queen of ♣
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 35 -------------------------
+Avi drew Queen of ♥
+Dani drew King of ♠
+Dani won
+------------------------- Round number 36 -------------------------
+Avi drew 9 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 37 -------------------------
+Avi drew 3 of ♦
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 38 -------------------------
+Avi drew 9 of ♥
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 39 -------------------------
+Avi drew Jack of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 40 -------------------------
+Avi drew Jack of ♦
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 41 -------------------------
+Avi drew Ace of ♥
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 42 -------------------------
+Avi drew 8 of ♥
+Dani drew King of ♥
+Dani won
+------------------------- Round number 43 -------------------------
+Avi drew 9 of ♥
+Dani drew 9 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 4 of ♣
+Dani drew 4 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♦
+Dani drew 5 of ♦
+Dani won the war
+------------------------- Round number 44 -------------------------
+Avi drew Ace of ♠
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 45 -------------------------
+Avi drew 3 of ♣
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 46 -------------------------
+Avi drew Queen of ♣
+Dani drew Jack of ♣
+Avi won
+------------------------- Round number 47 -------------------------
+Avi drew Jack of ♠
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 48 -------------------------
+Avi drew Jack of ♣
+Dani drew Jack of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Queen of ♣
+Dani drew 5 of ♥
+Avi won the war
+------------------------- Round number 49 -------------------------
+Avi drew King of ♥
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 50 -------------------------
+Avi drew 2 of ♥
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 51 -------------------------
+Avi drew Jack of ♣
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 52 -------------------------
+Avi drew 5 of ♥
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 53 -------------------------
+Avi drew Jack of ♠
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 54 -------------------------
+Avi drew Queen of ♣
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 55 -------------------------
+Avi drew 6 of ♠
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 56 -------------------------
+Avi drew Jack of ♦
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 57 -------------------------
+Avi drew 2 of ♠
+Dani drew King of ♠
+Dani won
+------------------------- Round number 58 -------------------------
+Avi drew Jack of ♠
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 59 -------------------------
+Avi drew 4 of ♥
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 60 -------------------------
+Avi drew Jack of ♦
+Dani drew Jack of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 5 of ♥
+Dani drew 7 of ♦
+Dani won the war
+------------------------- Round number 61 -------------------------
+Avi drew 5 of ♠
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 62 -------------------------
+Avi drew 7 of ♠
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 63 -------------------------
+Avi drew King of ♥
+Dani drew 10 of ♥
+Avi won
+------------------------- Round number 64 -------------------------
+Avi drew Jack of ♣
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 65 -------------------------
+Avi drew 6 of ♠
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 66 -------------------------
+Avi drew Queen of ♣
+Dani drew Queen of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 2 of ♦
+Dani drew King of ♣
+Dani won the war
+------------------------- Round number 67 -------------------------
+Avi drew Jack of ♠
+Dani drew 10 of ♠
+Avi won
+------------------------- Round number 68 -------------------------
+Avi drew 3 of ♠
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 69 -------------------------
+Avi drew King of ♥
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 70 -------------------------
+Avi drew 7 of ♠
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 71 -------------------------
+Avi drew 9 of ♦
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 72 -------------------------
+Avi drew 10 of ♥
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 73 -------------------------
+Avi drew 7 of ♠
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 74 -------------------------
+Avi drew 10 of ♥
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 75 -------------------------
+Avi drew 10 of ♠
+Dani drew 8 of ♥
+Avi won
+------------------------- Round number 76 -------------------------
+Avi drew Ace of ♥
+Dani drew King of ♦
+Dani won
+------------------------- Round number 77 -------------------------
+Avi drew King of ♥
+Dani drew Queen of ♣
+Avi won
+------------------------- Round number 78 -------------------------
+Avi drew 6 of ♥
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 79 -------------------------
+Avi drew 5 of ♦
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 80 -------------------------
+Avi drew 9 of ♦
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 81 -------------------------
+Avi drew 5 of ♣
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 82 -------------------------
+Avi drew Jack of ♠
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 83 -------------------------
+Avi drew 5 of ♣
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 84 -------------------------
+Avi drew 4 of ♥
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 85 -------------------------
+Avi drew 10 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 86 -------------------------
+Avi drew 5 of ♠
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 87 -------------------------
+Avi drew 8 of ♥
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 88 -------------------------
+Avi drew King of ♥
+Dani drew 9 of ♣
+Avi won
+------------------------- Round number 89 -------------------------
+Avi drew Ace of ♦
+Dani drew 9 of ♥
+Dani won
+------------------------- Round number 90 -------------------------
+Avi drew Jack of ♠
+Dani drew 10 of ♣
+Avi won
+------------------------- Round number 91 -------------------------
+Avi drew 7 of ♠
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 92 -------------------------
+Avi drew 6 of ♦
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 93 -------------------------
+Avi drew 10 of ♠
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 94 -------------------------
+Avi drew 9 of ♦
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 95 -------------------------
+Avi drew 4 of ♦
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 96 -------------------------
+Avi drew Queen of ♣
+Dani drew King of ♣
+Dani won
+------------------------- Round number 97 -------------------------
+Avi drew 8 of ♥
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 98 -------------------------
+Avi drew 10 of ♥
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 99 -------------------------
+Avi drew 3 of ♠
+Dani drew 3 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew King of ♥
+Dani drew 2 of ♥
+Avi won the war
+------------------------- Round number 100 -------------------------
+Avi drew 10 of ♠
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 101 -------------------------
+Avi drew 4 of ♣
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 102 -------------------------
+Avi drew 6 of ♠
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 103 -------------------------
+Avi drew Ace of ♠
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 104 -------------------------
+Avi drew Jack of ♠
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 105 -------------------------
+Avi drew 6 of ♣
+Dani drew King of ♠
+Dani won
+------------------------- Round number 106 -------------------------
+Avi drew 5 of ♠
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 107 -------------------------
+Avi drew 9 of ♦
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 108 -------------------------
+Avi drew Queen of ♦
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 109 -------------------------
+Avi drew 4 of ♠
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 110 -------------------------
+Avi drew 5 of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 111 -------------------------
+Avi drew 2 of ♥
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 112 -------------------------
+Avi drew 3 of ♦
+Dani drew 5 of ♥
+Dani won
+------------------------- Round number 113 -------------------------
+Avi drew 10 of ♣
+Dani drew 9 of ♥
+Avi won
+------------------------- Round number 114 -------------------------
+Avi drew 9 of ♦
+Dani drew 9 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 8 of ♥
+Dani drew Queen of ♠
+Dani won the war
+------------------------- Round number 115 -------------------------
+Avi drew 10 of ♥
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 116 -------------------------
+Avi drew Jack of ♠
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 117 -------------------------
+Avi drew 2 of ♦
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 118 -------------------------
+Avi drew 10 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 119 -------------------------
+Avi drew 3 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 120 -------------------------
+Avi drew 7 of ♦
+Dani drew King of ♣
+Dani won
+------------------------- Round number 121 -------------------------
+Avi drew King of ♥
+Dani drew Queen of ♣
+Avi won
+------------------------- Round number 122 -------------------------
+Avi drew 9 of ♣
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 123 -------------------------
+Avi drew 3 of ♠
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 124 -------------------------
+Avi drew Ace of ♣
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 125 -------------------------
+Avi drew Queen of ♣
+Dani drew 10 of ♦
+Avi won
+------------------------- Round number 126 -------------------------
+Avi drew 10 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 127 -------------------------
+Avi drew 7 of ♣
+Dani drew King of ♠
+Dani won
+------------------------- Round number 128 -------------------------
+Avi drew King of ♥
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 129 -------------------------
+Avi drew 9 of ♥
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 130 -------------------------
+Avi drew 2 of ♣
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 131 -------------------------
+Avi drew 4 of ♠
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 132 -------------------------
+Avi drew Queen of ♦
+Dani drew 8 of ♦
+Avi won
+------------------------- Round number 133 -------------------------
+Avi drew 2 of ♠
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 134 -------------------------
+Avi drew 10 of ♣
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 135 -------------------------
+Avi drew Jack of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 136 -------------------------
+Avi drew 7 of ♠
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 137 -------------------------
+Avi drew Ace of ♠
+Dani drew 6 of ♦
+Dani won
+------------------------- Round number 138 -------------------------
+Avi drew Ace of ♦
+Dani drew 4 of ♦
+Dani won
+------------------------- Round number 139 -------------------------
+Avi drew 8 of ♦
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 140 -------------------------
+Avi drew 7 of ♠
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 141 -------------------------
+Avi drew 10 of ♥
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 142 -------------------------
+Avi drew Jack of ♠
+Dani drew 9 of ♠
+Avi won
+------------------------- Round number 143 -------------------------
+Avi drew Queen of ♣
+Dani drew 10 of ♣
+Avi won
+------------------------- Round number 144 -------------------------
+Avi drew 6 of ♥
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 145 -------------------------
+Avi drew 9 of ♥
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 146 -------------------------
+Avi drew King of ♥
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 147 -------------------------
+Avi drew 2 of ♥
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 148 -------------------------
+Avi drew 4 of ♣
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 149 -------------------------
+Avi drew 10 of ♦
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 150 -------------------------
+Avi drew Queen of ♦
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 151 -------------------------
+Avi drew 6 of ♠
+Dani drew 6 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 8 of ♦
+Dani drew 3 of ♥
+Avi won the war
+------------------------- Round number 152 -------------------------
+Avi drew 10 of ♥
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 153 -------------------------
+Avi drew 2 of ♠
+Dani drew King of ♠
+Dani won
+------------------------- Round number 154 -------------------------
+Avi drew Ace of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 155 -------------------------
+Avi drew 6 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 156 -------------------------
+Avi drew Ace of ♦
+Dani drew 3 of ♠
+Dani won
+------------------------- Round number 157 -------------------------
+Avi drew King of ♥
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 158 -------------------------
+Avi drew Ace of ♥
+Dani drew 4 of ♥
+Dani won
+------------------------- Round number 159 -------------------------
+Avi drew Queen of ♣
+Dani drew 8 of ♥
+Avi won
+------------------------- Round number 160 -------------------------
+Avi drew 9 of ♠
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 161 -------------------------
+Avi drew Jack of ♠
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 162 -------------------------
+Avi drew 6 of ♠
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 163 -------------------------
+Avi drew King of ♥
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 164 -------------------------
+Avi drew 3 of ♥
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 165 -------------------------
+Avi drew 3 of ♦
+Dani drew 5 of ♥
+Dani won
+------------------------- Round number 166 -------------------------
+Avi drew 5 of ♣
+Dani drew 7 of ♦
+Dani won
+------------------------- Round number 167 -------------------------
+Avi drew 8 of ♥
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 168 -------------------------
+Avi drew Jack of ♠
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 169 -------------------------
+Avi drew 4 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 170 -------------------------
+Avi drew Queen of ♦
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 171 -------------------------
+Avi drew 9 of ♦
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 172 -------------------------
+Avi drew 6 of ♣
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 173 -------------------------
+Avi drew 8 of ♦
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 174 -------------------------
+Avi drew Queen of ♣
+Dani drew 7 of ♥
+Avi won
+------------------------- Round number 175 -------------------------
+Avi drew 10 of ♣
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 176 -------------------------
+Avi drew King of ♣
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 177 -------------------------
+Avi drew 10 of ♥
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 178 -------------------------
+Avi drew 9 of ♦
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 179 -------------------------
+Avi drew 6 of ♦
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 180 -------------------------
+Avi drew 7 of ♣
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 181 -------------------------
+Avi drew Jack of ♠
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 182 -------------------------
+Avi drew 10 of ♥
+Dani drew 9 of ♠
+Avi won
+------------------------- Round number 183 -------------------------
+Avi drew Queen of ♦
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 184 -------------------------
+Avi drew 2 of ♦
+Dani drew 2 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♠
+Dani drew Jack of ♣
+Dani won the war
+------------------------- Round number 185 -------------------------
+Avi drew 8 of ♦
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 186 -------------------------
+Avi drew 2 of ♣
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 187 -------------------------
+Avi drew King of ♥
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 188 -------------------------
+Avi drew 3 of ♣
+Dani drew 4 of ♣
+Dani won
+------------------------- Round number 189 -------------------------
+Avi drew 8 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 190 -------------------------
+Avi drew 5 of ♠
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 191 -------------------------
+Avi drew 10 of ♣
+Dani drew 10 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 7 of ♠
+Dani drew 8 of ♣
+Dani won the war
+------------------------- Round number 192 -------------------------
+Avi drew 5 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 193 -------------------------
+Avi drew 5 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 194 -------------------------
+Avi drew 3 of ♠
+Dani drew 7 of ♦
+Dani won
+------------------------- Round number 195 -------------------------
+Avi drew 8 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 196 -------------------------
+Avi drew 9 of ♠
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 197 -------------------------
+Avi drew 4 of ♠
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 198 -------------------------
+Avi drew 2 of ♠
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 199 -------------------------
+Avi drew 7 of ♣
+Dani drew King of ♠
+Dani won
+------------------------- Round number 200 -------------------------
+Avi drew King of ♥
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 201 -------------------------
+Avi drew 8 of ♦
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 202 -------------------------
+Avi drew Queen of ♦
+Dani drew 9 of ♥
+Avi won
+------------------------- Round number 203 -------------------------
+Avi drew 9 of ♦
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 204 -------------------------
+Avi drew 5 of ♣
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 205 -------------------------
+Avi drew 5 of ♦
+Dani drew 5 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 9 of ♥
+Dani drew 4 of ♥
+Avi won the war
+------------------------- Round number 206 -------------------------
+Avi drew 3 of ♦
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 207 -------------------------
+Avi drew King of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 208 -------------------------
+Avi drew 6 of ♣
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 209 -------------------------
+Avi drew 5 of ♣
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 210 -------------------------
+Avi drew 8 of ♥
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 211 -------------------------
+Avi drew 9 of ♦
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 212 -------------------------
+Avi drew Ace of ♦
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 213 -------------------------
+Avi drew 9 of ♠
+Dani drew 8 of ♣
+Avi won
+------------------------- Round number 214 -------------------------
+Avi drew 8 of ♦
+Dani drew King of ♠
+Dani won
+------------------------- Round number 215 -------------------------
+Avi drew 3 of ♥
+Dani drew 3 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Queen of ♦
+Dani drew Jack of ♠
+Avi won the war
+------------------------- Round number 216 -------------------------
+Avi drew Ace of ♠
+Dani drew 2 of ♠
+Dani won
+------------------------- Round number 217 -------------------------
+Avi drew 6 of ♥
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 218 -------------------------
+Avi drew 9 of ♦
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 219 -------------------------
+Avi drew 5 of ♦
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 220 -------------------------
+Avi drew 4 of ♠
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 221 -------------------------
+Avi drew Ace of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 222 -------------------------
+Avi drew King of ♥
+Dani drew Queen of ♥
+Avi won
+------------------------- Round number 223 -------------------------
+Avi drew 2 of ♣
+Dani drew 6 of ♦
+Dani won
+------------------------- Round number 224 -------------------------
+Avi drew 4 of ♣
+Dani drew King of ♣
+Dani won
+------------------------- Round number 225 -------------------------
+Avi drew 3 of ♥
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 226 -------------------------
+Avi drew Jack of ♦
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 227 -------------------------
+Avi drew Queen of ♦
+Dani drew King of ♦
+Dani won
+------------------------- Round number 228 -------------------------
+Avi drew 8 of ♣
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 229 -------------------------
+Avi drew 5 of ♠
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 230 -------------------------
+Avi drew Jack of ♥
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 231 -------------------------
+Avi drew 3 of ♣
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 232 -------------------------
+Avi drew 6 of ♥
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 233 -------------------------
+Avi drew 8 of ♠
+Dani drew 8 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♠
+Dani drew 7 of ♠
+Avi won the war
+------------------------- Round number 234 -------------------------
+Avi drew 4 of ♥
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 235 -------------------------
+Avi drew 10 of ♥
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 236 -------------------------
+Avi drew 3 of ♠
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 237 -------------------------
+Avi drew 9 of ♥
+Dani drew King of ♠
+Dani won
+------------------------- Round number 238 -------------------------
+Avi drew 9 of ♠
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 239 -------------------------
+Avi drew 8 of ♠
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 240 -------------------------
+Avi drew 2 of ♥
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 241 -------------------------
+Avi drew Jack of ♦
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 242 -------------------------
+Avi drew 2 of ♦
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 243 -------------------------
+Avi drew King of ♥
+Dani drew King of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♠
+Dani drew 4 of ♠
+Avi won the war
+------------------------- Round number 244 -------------------------
+Avi drew 5 of ♥
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 245 -------------------------
+Avi drew 3 of ♣
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 246 -------------------------
+Avi drew Jack of ♥
+Dani drew 10 of ♠
+Avi won
+------------------------- Round number 247 -------------------------
+Avi drew Ace of ♥
+Dani drew King of ♦
+Dani won
+------------------------- Round number 248 -------------------------
+Avi drew 10 of ♥
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 249 -------------------------
+Avi drew 8 of ♥
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 250 -------------------------
+Avi drew 7 of ♠
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 251 -------------------------
+Avi drew 7 of ♦
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 252 -------------------------
+Avi drew 8 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 253 -------------------------
+Avi drew Queen of ♥
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 254 -------------------------
+Avi drew 4 of ♦
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 255 -------------------------
+Avi drew 7 of ♥
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 256 -------------------------
+Avi drew King of ♣
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 257 -------------------------
+Avi drew 4 of ♣
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 258 -------------------------
+Avi drew 5 of ♠
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 259 -------------------------
+Avi drew Ace of ♣
+Dani drew King of ♠
+Dani won
+------------------------- Round number 260 -------------------------
+Avi drew 4 of ♠
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 261 -------------------------
+Avi drew 2 of ♠
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 262 -------------------------
+Avi drew 10 of ♠
+Dani drew 9 of ♣
+Avi won
+------------------------- Round number 263 -------------------------
+Avi drew 8 of ♠
+Dani drew 8 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 4 of ♦
+Dani drew Jack of ♣
+Dani won the war
+------------------------- Round number 264 -------------------------
+Avi drew Queen of ♦
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 265 -------------------------
+Avi drew 3 of ♦
+Dani drew 6 of ♥
+Dani won
+------------------------- Round number 266 -------------------------
+Avi drew Jack of ♥
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 267 -------------------------
+Avi drew 3 of ♥
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 268 -------------------------
+Avi drew 2 of ♣
+Dani drew King of ♦
+Dani won
+------------------------- Round number 269 -------------------------
+Avi drew 7 of ♦
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 270 -------------------------
+Avi drew 7 of ♠
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 271 -------------------------
+Avi drew 3 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 272 -------------------------
+Avi drew 5 of ♥
+Dani drew 5 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♦
+Dani drew 9 of ♥
+Dani won the war
+------------------------- Round number 273 -------------------------
+Avi drew Jack of ♠
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 274 -------------------------
+Avi drew 6 of ♣
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 275 -------------------------
+Avi drew 9 of ♦
+Dani drew 9 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 7 of ♦
+Dani drew 7 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 6 of ♠
+Dani drew King of ♥
+Dani won the war
+------------------------- Round number 276 -------------------------
+Avi drew 9 of ♣
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 277 -------------------------
+Avi drew 6 of ♦
+Dani drew King of ♠
+Dani won
+------------------------- Round number 278 -------------------------
+Avi drew Jack of ♥
+Dani drew 10 of ♦
+Avi won
+------------------------- Round number 279 -------------------------
+Avi drew 5 of ♦
+Dani drew 6 of ♥
+Dani won
+------------------------- Round number 280 -------------------------
+Avi drew 3 of ♥
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 281 -------------------------
+Avi drew 2 of ♥
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 282 -------------------------
+Avi drew 4 of ♥
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 283 -------------------------
+Avi drew Queen of ♦
+Dani drew King of ♦
+Dani won
+------------------------- Round number 284 -------------------------
+Avi drew 3 of ♠
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 285 -------------------------
+Avi drew Jack of ♠
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 286 -------------------------
+Avi drew 10 of ♠
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 287 -------------------------
+Avi drew King of ♣
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 288 -------------------------
+Avi drew King of ♣
+Dani drew Jack of ♦
+Avi won
+------------------------- Round number 289 -------------------------
+Avi drew Ace of ♥
+Dani drew 3 of ♦
+Dani won
+------------------------- Round number 290 -------------------------
+Avi drew 2 of ♠
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 291 -------------------------
+Avi drew 9 of ♣
+Dani drew 9 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 10 of ♠
+Dani drew 4 of ♦
+Avi won the war
+------------------------- Round number 292 -------------------------
+Avi drew 2 of ♣
+Dani drew 4 of ♣
+Dani won
+------------------------- Round number 293 -------------------------
+Avi drew Jack of ♠
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 294 -------------------------
+Avi drew Jack of ♥
+Dani drew 8 of ♦
+Avi won
+------------------------- Round number 295 -------------------------
+Avi drew King of ♣
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 296 -------------------------
+Avi drew 4 of ♦
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 297 -------------------------
+Avi drew 5 of ♠
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 298 -------------------------
+Avi drew 8 of ♦
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 299 -------------------------
+Avi drew 8 of ♥
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 300 -------------------------
+Avi drew 9 of ♣
+Dani drew 8 of ♦
+Avi won
+------------------------- Round number 301 -------------------------
+Avi drew Jack of ♥
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 302 -------------------------
+Avi drew 5 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 303 -------------------------
+Avi drew 10 of ♠
+Dani drew 10 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♠
+Dani drew 2 of ♣
+Avi won the war
+------------------------- Round number 304 -------------------------
+Avi drew 10 of ♦
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 305 -------------------------
+Avi drew Jack of ♦
+Dani drew 7 of ♥
+Avi won
+------------------------- Round number 306 -------------------------
+Avi drew 7 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 307 -------------------------
+Avi drew 5 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 308 -------------------------
+Avi drew 7 of ♦
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 309 -------------------------
+Avi drew 9 of ♣
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 310 -------------------------
+Avi drew 3 of ♣
+Dani drew King of ♥
+Dani won
+------------------------- Round number 311 -------------------------
+Avi drew 8 of ♦
+Dani drew 9 of ♦
+Dani won
+------------------------- Round number 312 -------------------------
+Avi drew Jack of ♠
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 313 -------------------------
+Avi drew King of ♣
+Dani drew 10 of ♥
+Avi won
+------------------------- Round number 314 -------------------------
+Avi drew 6 of ♦
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 315 -------------------------
+Avi drew Jack of ♦
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 316 -------------------------
+Avi drew 4 of ♠
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 317 -------------------------
+Avi drew 2 of ♣
+Dani drew 2 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 10 of ♣
+Dani drew 8 of ♣
+Avi won the war
+------------------------- Round number 318 -------------------------
+Avi drew 8 of ♥
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 319 -------------------------
+Avi drew 6 of ♠
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 320 -------------------------
+Avi drew 10 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 321 -------------------------
+Avi drew Jack of ♥
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 322 -------------------------
+Avi drew Queen of ♠
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 323 -------------------------
+Avi drew 9 of ♣
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 324 -------------------------
+Avi drew 8 of ♥
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 325 -------------------------
+Avi drew 3 of ♠
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 326 -------------------------
+Avi drew 10 of ♣
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 327 -------------------------
+Avi drew 3 of ♥
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 328 -------------------------
+Avi drew 2 of ♥
+Dani drew 2 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Queen of ♠
+Dani drew King of ♦
+Dani won the war
+------------------------- Round number 329 -------------------------
+Avi drew Jack of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 330 -------------------------
+Avi drew 6 of ♠
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 331 -------------------------
+Avi drew 2 of ♦
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 332 -------------------------
+Avi drew 2 of ♣
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 333 -------------------------
+Avi drew 4 of ♥
+Dani drew 8 of ♥
+Dani won
+------------------------- Round number 334 -------------------------
+Avi drew King of ♠
+Dani drew Jack of ♥
+Avi won
+------------------------- Round number 335 -------------------------
+Avi drew 7 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 336 -------------------------
+Avi drew King of ♣
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 337 -------------------------
+Avi drew 6 of ♦
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 338 -------------------------
+Avi drew Ace of ♠
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 339 -------------------------
+Avi drew 4 of ♦
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 340 -------------------------
+Avi drew 10 of ♥
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 341 -------------------------
+Avi drew Ace of ♣
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 342 -------------------------
+Avi drew 8 of ♣
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 343 -------------------------
+Avi drew 5 of ♠
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 344 -------------------------
+Avi drew 9 of ♥
+Dani drew 8 of ♠
+Avi won
+------------------------- Round number 345 -------------------------
+Avi drew 7 of ♦
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 346 -------------------------
+Avi drew 8 of ♠
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 347 -------------------------
+Avi drew 6 of ♥
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 348 -------------------------
+Avi drew Jack of ♥
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 349 -------------------------
+Avi drew 6 of ♠
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 350 -------------------------
+Avi drew 7 of ♥
+Dani drew 9 of ♦
+Dani won
+------------------------- Round number 351 -------------------------
+Avi drew 9 of ♥
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 352 -------------------------
+Avi drew 7 of ♠
+Dani drew 7 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 3 of ♥
+Dani drew 4 of ♥
+Dani won the war
+------------------------- Round number 353 -------------------------
+Avi drew 9 of ♣
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 354 -------------------------
+Avi drew Ace of ♥
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 355 -------------------------
+Avi drew 3 of ♠
+Dani drew 6 of ♥
+Dani won
+------------------------- Round number 356 -------------------------
+Avi drew King of ♣
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 357 -------------------------
+Avi drew 4 of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 358 -------------------------
+Avi drew 10 of ♣
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 359 -------------------------
+Avi drew King of ♠
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 360 -------------------------
+Avi drew 5 of ♦
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 361 -------------------------
+Avi drew 3 of ♣
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 362 -------------------------
+Avi drew 2 of ♣
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 363 -------------------------
+Avi drew 9 of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 364 -------------------------
+Avi drew 5 of ♦
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 365 -------------------------
+Avi drew King of ♣
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 366 -------------------------
+Avi drew Jack of ♥
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 367 -------------------------
+Avi drew Ace of ♠
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 368 -------------------------
+Avi drew 8 of ♠
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 369 -------------------------
+Avi drew 9 of ♦
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 370 -------------------------
+Avi drew 5 of ♥
+Dani drew 8 of ♥
+Dani won
+------------------------- Round number 371 -------------------------
+Avi drew 4 of ♠
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 372 -------------------------
+Avi drew 5 of ♣
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 373 -------------------------
+Avi drew 9 of ♣
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 374 -------------------------
+Avi drew 7 of ♦
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 375 -------------------------
+Avi drew 6 of ♠
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 376 -------------------------
+Avi drew 10 of ♣
+Dani drew King of ♦
+Dani won
+------------------------- Round number 377 -------------------------
+Avi drew King of ♠
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 378 -------------------------
+Avi drew 2 of ♠
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 379 -------------------------
+Avi drew 2 of ♦
+Dani drew 3 of ♦
+Dani won
+------------------------- Round number 380 -------------------------
+Avi drew Ace of ♦
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 381 -------------------------
+Avi drew 7 of ♦
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 382 -------------------------
+Avi drew Ace of ♣
+Dani drew King of ♥
+Dani won
+------------------------- Round number 383 -------------------------
+Avi drew 6 of ♦
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 384 -------------------------
+Avi drew 4 of ♦
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 385 -------------------------
+Avi drew King of ♠
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 386 -------------------------
+Avi drew 2 of ♥
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 387 -------------------------
+Avi drew 6 of ♣
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 388 -------------------------
+Avi drew 8 of ♠
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 389 -------------------------
+Avi drew 5 of ♣
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 390 -------------------------
+Avi drew 2 of ♣
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 391 -------------------------
+Avi drew 9 of ♦
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 392 -------------------------
+Avi drew 4 of ♣
+Dani drew 4 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 5 of ♣
+Dani drew 2 of ♦
+Avi won the war
+------------------------- Round number 393 -------------------------
+Avi drew 6 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 394 -------------------------
+Avi drew 8 of ♠
+Dani drew King of ♥
+Dani won
+------------------------- Round number 395 -------------------------
+Avi drew 3 of ♣
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 396 -------------------------
+Avi drew King of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 397 -------------------------
+Avi drew 3 of ♥
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 398 -------------------------
+Avi drew 4 of ♥
+Dani drew King of ♦
+Dani won
+------------------------- Round number 399 -------------------------
+Avi drew Ace of ♦
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 400 -------------------------
+Avi drew 5 of ♣
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 401 -------------------------
+Avi drew 4 of ♣
+Dani drew 8 of ♥
+Dani won
+------------------------- Round number 402 -------------------------
+Avi drew King of ♠
+Dani drew 10 of ♣
+Avi won
+------------------------- Round number 403 -------------------------
+Avi drew King of ♣
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 404 -------------------------
+Avi drew 4 of ♠
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 405 -------------------------
+Avi drew Jack of ♥
+Dani drew 9 of ♣
+Avi won
+------------------------- Round number 406 -------------------------
+Avi drew Ace of ♣
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 407 -------------------------
+Avi drew 5 of ♥
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 408 -------------------------
+Avi drew Ace of ♠
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 409 -------------------------
+Avi drew 2 of ♦
+Dani drew 7 of ♦
+Dani won
+------------------------- Round number 410 -------------------------
+Avi drew Ace of ♥
+Dani drew 3 of ♦
+Dani won
+------------------------- Round number 411 -------------------------
+Avi drew 10 of ♣
+Dani drew 10 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew King of ♣
+Dani drew 5 of ♠
+Avi won the war
+------------------------- Round number 412 -------------------------
+Avi drew Jack of ♥
+Dani drew 9 of ♥
+Avi won
+------------------------- Round number 413 -------------------------
+Avi drew 4 of ♠
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 414 -------------------------
+Avi drew King of ♠
+Dani drew 10 of ♦
+Avi won
+------------------------- Round number 415 -------------------------
+Avi drew Jack of ♥
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 416 -------------------------
+Avi drew 9 of ♣
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 417 -------------------------
+Avi drew 5 of ♠
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 418 -------------------------
+Avi drew 10 of ♠
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 419 -------------------------
+Avi drew 2 of ♠
+Dani drew 8 of ♦
+Dani won
+------------------------- Round number 420 -------------------------
+Avi drew 4 of ♠
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 421 -------------------------
+Avi drew King of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 422 -------------------------
+Avi drew 6 of ♥
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 423 -------------------------
+Avi drew 10 of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 424 -------------------------
+Avi drew 10 of ♣
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 425 -------------------------
+Avi drew 9 of ♠
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 426 -------------------------
+Avi drew King of ♣
+Dani drew Jack of ♣
+Avi won
+------------------------- Round number 427 -------------------------
+Avi drew 10 of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 428 -------------------------
+Avi drew 9 of ♥
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 429 -------------------------
+Avi drew 3 of ♠
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 430 -------------------------
+Avi drew 9 of ♠
+Dani drew 8 of ♣
+Avi won
+------------------------- Round number 431 -------------------------
+Avi drew Ace of ♠
+Dani drew 4 of ♦
+Dani won
+------------------------- Round number 432 -------------------------
+Avi drew Ace of ♣
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 433 -------------------------
+Avi drew 9 of ♣
+Dani drew 8 of ♥
+Avi won
+------------------------- Round number 434 -------------------------
+Avi drew King of ♠
+Dani drew Queen of ♣
+Avi won
+------------------------- Round number 435 -------------------------
+Avi drew Jack of ♥
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 436 -------------------------
+Avi drew 3 of ♥
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 437 -------------------------
+Avi drew 4 of ♥
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 438 -------------------------
+Avi drew Jack of ♣
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 439 -------------------------
+Avi drew King of ♣
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 440 -------------------------
+Avi drew 9 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 441 -------------------------
+Avi drew 10 of ♣
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 442 -------------------------
+Avi drew 3 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 443 -------------------------
+Avi drew 7 of ♠
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 444 -------------------------
+Avi drew 10 of ♠
+Dani drew 7 of ♥
+Avi won
+------------------------- Round number 445 -------------------------
+Avi drew 6 of ♥
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 446 -------------------------
+Avi drew 7 of ♦
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 447 -------------------------
+Avi drew 8 of ♣
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 448 -------------------------
+Avi drew 2 of ♦
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 449 -------------------------
+Avi drew 10 of ♣
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 450 -------------------------
+Avi drew Ace of ♦
+Dani drew King of ♦
+Dani won
+------------------------- Round number 451 -------------------------
+Avi drew King of ♣
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 452 -------------------------
+Avi drew 5 of ♥
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 453 -------------------------
+Avi drew 9 of ♣
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 454 -------------------------
+Avi drew 9 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 455 -------------------------
+Avi drew 4 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 456 -------------------------
+Avi drew King of ♠
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 457 -------------------------
+Avi drew 9 of ♥
+Dani drew 8 of ♦
+Avi won
+------------------------- Round number 458 -------------------------
+Avi drew 7 of ♥
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 459 -------------------------
+Avi drew 8 of ♥
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 460 -------------------------
+Avi drew Jack of ♣
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 461 -------------------------
+Avi drew 10 of ♠
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 462 -------------------------
+Avi drew 4 of ♣
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 463 -------------------------
+Avi drew Queen of ♣
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 464 -------------------------
+Avi drew 2 of ♥
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 465 -------------------------
+Avi drew 9 of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 466 -------------------------
+Avi drew 3 of ♦
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 467 -------------------------
+Avi drew 7 of ♦
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 468 -------------------------
+Avi drew 7 of ♠
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 469 -------------------------
+Avi drew 2 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 470 -------------------------
+Avi drew Jack of ♥
+Dani drew 10 of ♦
+Avi won
+------------------------- Round number 471 -------------------------
+Avi drew Jack of ♣
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 472 -------------------------
+Avi drew 6 of ♠
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 473 -------------------------
+Avi drew King of ♠
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 474 -------------------------
+Avi drew 7 of ♥
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 475 -------------------------
+Avi drew 8 of ♦
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 476 -------------------------
+Avi drew 9 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 477 -------------------------
+Avi drew 5 of ♠
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 478 -------------------------
+Avi drew 5 of ♦
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 479 -------------------------
+Avi drew 2 of ♠
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 480 -------------------------
+Avi drew 9 of ♥
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 481 -------------------------
+Avi drew 4 of ♣
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 482 -------------------------
+Avi drew 4 of ♠
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 483 -------------------------
+Avi drew 7 of ♦
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 484 -------------------------
+Avi drew Queen of ♣
+Dani drew 8 of ♠
+Avi won
+------------------------- Round number 485 -------------------------
+Avi drew 5 of ♥
+Dani drew King of ♥
+Dani won
+------------------------- Round number 486 -------------------------
+Avi drew 8 of ♣
+Dani drew 8 of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♥
+Dani drew Jack of ♠
+Dani won the war
+------------------------- Round number 487 -------------------------
+Avi drew 7 of ♠
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 488 -------------------------
+Avi drew 3 of ♣
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 489 -------------------------
+Avi drew 5 of ♣
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 490 -------------------------
+Avi drew 6 of ♦
+Dani drew 6 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 7 of ♣
+Dani drew Queen of ♥
+Dani won the war
+------------------------- Round number 491 -------------------------
+Avi drew 3 of ♥
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 492 -------------------------
+Avi drew 9 of ♥
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 493 -------------------------
+Avi drew 8 of ♠
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 494 -------------------------
+Avi drew 2 of ♣
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 495 -------------------------
+Avi drew 8 of ♦
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 496 -------------------------
+Avi drew Ace of ♣
+Dani drew King of ♥
+Dani won
+------------------------- Round number 497 -------------------------
+Avi drew Jack of ♣
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 498 -------------------------
+Avi drew 4 of ♦
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 499 -------------------------
+Avi drew Ace of ♦
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 500 -------------------------
+Avi drew Queen of ♣
+Dani drew 10 of ♥
+Avi won
+------------------------- Round number 501 -------------------------
+Avi drew King of ♠
+Dani drew 5 of ♣
+Avi won
+------------------------- Round number 502 -------------------------
+Avi drew 6 of ♠
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 503 -------------------------
+Avi drew 5 of ♠
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 504 -------------------------
+Avi drew Ace of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 505 -------------------------
+Avi drew 3 of ♠
+Dani drew 3 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 7 of ♥
+Dani drew 6 of ♦
+Avi won the war
+------------------------- Round number 506 -------------------------
+Avi drew 2 of ♦
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 507 -------------------------
+Avi drew 5 of ♦
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 508 -------------------------
+Avi drew 6 of ♥
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 509 -------------------------
+Avi drew 5 of ♦
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 510 -------------------------
+Avi drew 3 of ♦
+Dani drew King of ♣
+Dani won
+------------------------- Round number 511 -------------------------
+Avi drew Queen of ♣
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 512 -------------------------
+Avi drew 3 of ♠
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 513 -------------------------
+Avi drew 7 of ♠
+Dani drew 8 of ♥
+Dani won
+------------------------- Round number 514 -------------------------
+Avi drew 9 of ♣
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 515 -------------------------
+Avi drew 9 of ♦
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 516 -------------------------
+Avi drew 6 of ♠
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 517 -------------------------
+Avi drew 8 of ♠
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 518 -------------------------
+Avi drew 10 of ♥
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 519 -------------------------
+Avi drew 7 of ♥
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 520 -------------------------
+Avi drew 4 of ♥
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 521 -------------------------
+Avi drew 4 of ♣
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 522 -------------------------
+Avi drew 5 of ♣
+Dani drew King of ♥
+Dani won
+------------------------- Round number 523 -------------------------
+Avi drew 2 of ♥
+Dani drew 5 of ♠
+Dani won
+------------------------- Round number 524 -------------------------
+Avi drew Jack of ♣
+Dani drew 8 of ♥
+Avi won
+------------------------- Round number 525 -------------------------
+Avi drew 3 of ♣
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 526 -------------------------
+Avi drew King of ♠
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 527 -------------------------
+Avi drew Ace of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 528 -------------------------
+Avi drew 6 of ♦
+Dani drew 6 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 2 of ♠
+Dani drew Queen of ♦
+Dani won the war
+------------------------- Round number 529 -------------------------
+Avi drew 4 of ♠
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 530 -------------------------
+Avi drew 8 of ♠
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 531 -------------------------
+Avi drew King of ♠
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 532 -------------------------
+Avi drew 2 of ♣
+Dani drew Jack of ♠
+Dani won
+------------------------- Round number 533 -------------------------
+Avi drew 8 of ♥
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 534 -------------------------
+Avi drew 6 of ♣
+Dani drew King of ♣
+Dani won
+------------------------- Round number 535 -------------------------
+Avi drew 7 of ♥
+Dani drew 9 of ♦
+Dani won
+------------------------- Round number 536 -------------------------
+Avi drew 9 of ♣
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 537 -------------------------
+Avi drew 10 of ♥
+Dani drew 8 of ♣
+Avi won
+------------------------- Round number 538 -------------------------
+Avi drew Queen of ♣
+Dani drew 8 of ♦
+Avi won
+------------------------- Round number 539 -------------------------
+Avi drew Jack of ♣
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 540 -------------------------
+Avi drew 7 of ♦
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 541 -------------------------
+Avi drew 5 of ♥
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 542 -------------------------
+Avi drew 3 of ♦
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 543 -------------------------
+Avi drew 5 of ♥
+Dani drew 7 of ♣
+Dani won
+------------------------- Round number 544 -------------------------
+Avi drew 8 of ♣
+Dani drew King of ♦
+Dani won
+------------------------- Round number 545 -------------------------
+Avi drew Jack of ♣
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 546 -------------------------
+Avi drew 4 of ♦
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 547 -------------------------
+Avi drew 10 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 548 -------------------------
+Avi drew 4 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 549 -------------------------
+Avi drew 8 of ♠
+Dani drew 5 of ♦
+Avi won
+------------------------- Round number 550 -------------------------
+Avi drew 2 of ♦
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 551 -------------------------
+Avi drew 4 of ♣
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 552 -------------------------
+Avi drew 6 of ♥
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 553 -------------------------
+Avi drew King of ♠
+Dani drew Queen of ♥
+Avi won
+------------------------- Round number 554 -------------------------
+Avi drew 8 of ♦
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 555 -------------------------
+Avi drew 8 of ♥
+Dani drew 8 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♣
+Dani drew 3 of ♣
+Avi won the war
+------------------------- Round number 556 -------------------------
+Avi drew 7 of ♠
+Dani drew 7 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 3 of ♠
+Dani drew 9 of ♣
+Dani won the war
+------------------------- Round number 557 -------------------------
+Avi drew 10 of ♥
+Dani drew 9 of ♠
+Avi won
+------------------------- Round number 558 -------------------------
+Avi drew Ace of ♠
+Dani drew 9 of ♦
+Dani won
+------------------------- Round number 559 -------------------------
+Avi drew 2 of ♦
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 560 -------------------------
+Avi drew 4 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 561 -------------------------
+Avi drew 5 of ♥
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 562 -------------------------
+Avi drew 8 of ♠
+Dani drew King of ♣
+Dani won
+------------------------- Round number 563 -------------------------
+Avi drew 4 of ♦
+Dani drew 4 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 5 of ♦
+Dani drew 2 of ♣
+Avi won the war
+------------------------- Round number 564 -------------------------
+Avi drew King of ♠
+Dani drew Jack of ♠
+Avi won
+------------------------- Round number 565 -------------------------
+Avi drew 4 of ♥
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 566 -------------------------
+Avi drew Ace of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 567 -------------------------
+Avi drew 8 of ♥
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 568 -------------------------
+Avi drew 9 of ♠
+Dani drew King of ♦
+Dani won
+------------------------- Round number 569 -------------------------
+Avi drew Jack of ♠
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 570 -------------------------
+Avi drew 7 of ♣
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 571 -------------------------
+Avi drew 10 of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 572 -------------------------
+Avi drew 10 of ♦
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 573 -------------------------
+Avi drew 4 of ♦
+Dani drew 5 of ♠
+Dani won
+------------------------- Round number 574 -------------------------
+Avi drew 4 of ♠
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 575 -------------------------
+Avi drew 8 of ♣
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 576 -------------------------
+Avi drew King of ♠
+Dani drew King of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 2 of ♣
+Dani drew 10 of ♣
+Dani won the war
+------------------------- Round number 577 -------------------------
+Avi drew Jack of ♣
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 578 -------------------------
+Avi drew Queen of ♥
+Dani drew 7 of ♠
+Avi won
+------------------------- Round number 579 -------------------------
+Avi drew 3 of ♦
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 580 -------------------------
+Avi drew 7 of ♥
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 581 -------------------------
+Avi drew 3 of ♣
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 582 -------------------------
+Avi drew Queen of ♣
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 583 -------------------------
+Avi drew Queen of ♣
+Dani drew Queen of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 8 of ♥
+Dani drew 3 of ♠
+Avi won the war
+------------------------- Round number 584 -------------------------
+Avi drew Jack of ♠
+Dani drew Jack of ♥
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 7 of ♠
+Dani drew 9 of ♠
+Dani won the war
+------------------------- Round number 585 -------------------------
+Avi drew 7 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 586 -------------------------
+Avi drew 10 of ♦
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 587 -------------------------
+Avi drew 9 of ♦
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 588 -------------------------
+Avi drew 8 of ♣
+Dani drew King of ♣
+Dani won
+------------------------- Round number 589 -------------------------
+Avi drew 4 of ♠
+Dani drew 4 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♥
+Dani drew Ace of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 9 of ♦
+Dani drew 6 of ♥
+Avi won the war
+------------------------- Round number 590 -------------------------
+Avi drew 2 of ♠
+Dani drew 7 of ♦
+Dani won
+------------------------- Round number 591 -------------------------
+Avi drew 2 of ♦
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 592 -------------------------
+Avi drew Jack of ♣
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 593 -------------------------
+Avi drew 3 of ♠
+Dani drew 9 of ♣
+Dani won
+------------------------- Round number 594 -------------------------
+Avi drew Queen of ♠
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 595 -------------------------
+Avi drew Queen of ♣
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 596 -------------------------
+Avi drew 8 of ♥
+Dani drew 7 of ♥
+Avi won
+------------------------- Round number 597 -------------------------
+Avi drew 4 of ♣
+Dani drew 6 of ♦
+Dani won
+------------------------- Round number 598 -------------------------
+Avi drew 7 of ♣
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 599 -------------------------
+Avi drew Ace of ♣
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 600 -------------------------
+Avi drew 7 of ♥
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 601 -------------------------
+Avi drew Ace of ♠
+Dani drew 9 of ♥
+Dani won
+------------------------- Round number 602 -------------------------
+Avi drew Queen of ♣
+Dani drew King of ♥
+Dani won
+------------------------- Round number 603 -------------------------
+Avi drew 4 of ♦
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 604 -------------------------
+Avi drew 5 of ♠
+Dani drew 4 of ♥
+Avi won
+------------------------- Round number 605 -------------------------
+Avi drew 9 of ♦
+Dani drew 9 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ♣
+Dani drew 2 of ♥
+Avi won the war
+------------------------- Round number 606 -------------------------
+Avi drew 4 of ♠
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 607 -------------------------
+Avi drew King of ♦
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 608 -------------------------
+Avi drew 3 of ♥
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 609 -------------------------
+Avi drew Queen of ♥
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 610 -------------------------
+Avi drew 3 of ♠
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 611 -------------------------
+Avi drew Queen of ♠
+Dani drew 9 of ♣
+Avi won
+------------------------- Round number 612 -------------------------
+Avi drew 10 of ♠
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 613 -------------------------
+Avi drew 6 of ♠
+Dani drew King of ♣
+Dani won
+------------------------- Round number 614 -------------------------
+Avi drew 8 of ♦
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 615 -------------------------
+Avi drew Ace of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 616 -------------------------
+Avi drew Queen of ♦
+Dani drew King of ♠
+Dani won
+------------------------- Round number 617 -------------------------
+Avi drew 10 of ♦
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 618 -------------------------
+Avi drew King of ♦
+Dani drew Jack of ♠
+Avi won
+------------------------- Round number 619 -------------------------
+Avi drew 6 of ♥
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 620 -------------------------
+Avi drew 7 of ♦
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 621 -------------------------
+Avi drew 5 of ♣
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 622 -------------------------
+Avi drew 2 of ♣
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 623 -------------------------
+Avi drew 2 of ♥
+Dani drew King of ♣
+Dani won
+------------------------- Round number 624 -------------------------
+Avi drew Queen of ♥
+Dani drew 6 of ♦
+Avi won
+------------------------- Round number 625 -------------------------
+Avi drew 5 of ♠
+Dani drew 7 of ♦
+Dani won
+------------------------- Round number 626 -------------------------
+Avi drew 3 of ♦
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 627 -------------------------
+Avi drew 9 of ♠
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 628 -------------------------
+Avi drew 10 of ♦
+Dani drew Queen of ♣
+Dani won
+------------------------- Round number 629 -------------------------
+Avi drew 3 of ♥
+Dani drew 9 of ♥
+Dani won
+------------------------- Round number 630 -------------------------
+Avi drew 9 of ♦
+Dani drew King of ♠
+Dani won
+------------------------- Round number 631 -------------------------
+Avi drew 8 of ♦
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 632 -------------------------
+Avi drew 4 of ♥
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 633 -------------------------
+Avi drew Ace of ♦
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 634 -------------------------
+Avi drew 9 of ♣
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 635 -------------------------
+Avi drew 8 of ♥
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 636 -------------------------
+Avi drew 5 of ♥
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 637 -------------------------
+Avi drew 3 of ♣
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 638 -------------------------
+Avi drew Queen of ♠
+Dani drew Ace of ♠
+Avi won
+------------------------- Round number 639 -------------------------
+Avi drew 10 of ♠
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 640 -------------------------
+Avi drew 7 of ♥
+Dani drew 6 of ♠
+Avi won
+------------------------- Round number 641 -------------------------
+Avi drew 2 of ♠
+Dani drew Ace of ♥
+Avi won
+------------------------- Round number 642 -------------------------
+Avi drew 2 of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 643 -------------------------
+Avi drew Jack of ♣
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 644 -------------------------
+Avi drew 2 of ♠
+Dani drew 6 of ♣
+Dani won
+------------------------- Round number 645 -------------------------
+Avi drew 9 of ♣
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 646 -------------------------
+Avi drew 6 of ♦
+Dani drew 4 of ♠
+Avi won
+------------------------- Round number 647 -------------------------
+Avi drew 6 of ♥
+Dani drew 8 of ♣
+Dani won
+------------------------- Round number 648 -------------------------
+Avi drew King of ♦
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 649 -------------------------
+Avi drew 7 of ♥
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 650 -------------------------
+Avi drew Jack of ♠
+Dani drew 9 of ♦
+Avi won
+------------------------- Round number 651 -------------------------
+Avi drew Ace of ♠
+Dani drew 4 of ♥
+Dani won
+------------------------- Round number 652 -------------------------
+Avi drew 8 of ♥
+Dani drew 8 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Queen of ♠
+Dani drew King of ♥
+Dani won the war
+------------------------- Round number 653 -------------------------
+Avi drew 3 of ♠
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 654 -------------------------
+Avi drew Queen of ♥
+Dani drew 3 of ♦
+Avi won
+------------------------- Round number 655 -------------------------
+Avi drew 8 of ♦
+Dani drew King of ♣
+Dani won
+------------------------- Round number 656 -------------------------
+Avi drew Ace of ♥
+Dani drew 5 of ♣
+Dani won
+------------------------- Round number 657 -------------------------
+Avi drew 4 of ♦
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 658 -------------------------
+Avi drew 4 of ♣
+Dani drew 6 of ♥
+Dani won
+------------------------- Round number 659 -------------------------
+Avi drew 9 of ♦
+Dani drew 6 of ♣
+Avi won
+------------------------- Round number 660 -------------------------
+Avi drew King of ♦
+Dani drew 2 of ♣
+Avi won
+------------------------- Round number 661 -------------------------
+Avi drew 4 of ♦
+Dani drew Queen of ♦
+Dani won
+------------------------- Round number 662 -------------------------
+Avi drew 3 of ♦
+Dani drew 2 of ♠
+Avi won
+------------------------- Round number 663 -------------------------
+Avi drew Queen of ♥
+Dani drew King of ♠
+Dani won
+------------------------- Round number 664 -------------------------
+Avi drew 6 of ♦
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 665 -------------------------
+Avi drew Jack of ♠
+Dani drew 3 of ♣
+Avi won
+------------------------- Round number 666 -------------------------
+Avi drew 9 of ♣
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 667 -------------------------
+Avi drew 4 of ♠
+Dani drew 7 of ♠
+Dani won
+------------------------- Round number 668 -------------------------
+Avi drew 7 of ♣
+Dani drew 5 of ♠
+Avi won
+------------------------- Round number 669 -------------------------
+Avi drew Ace of ♣
+Dani drew Jack of ♣
+Dani won
+------------------------- Round number 670 -------------------------
+Avi drew 2 of ♦
+Dani drew 5 of ♦
+Dani won
+------------------------- Round number 671 -------------------------
+Avi drew Ace of ♦
+Dani drew 8 of ♠
+Dani won
+------------------------- Round number 672 -------------------------
+Avi drew 9 of ♣
+Dani drew 7 of ♦
+Avi won
+------------------------- Round number 673 -------------------------
+Avi drew 7 of ♣
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 674 -------------------------
+Avi drew 3 of ♣
+Dani drew 9 of ♥
+Dani won
+------------------------- Round number 675 -------------------------
+Avi drew 9 of ♦
+Dani drew 3 of ♥
+Avi won
+------------------------- Round number 676 -------------------------
+Avi drew 6 of ♦
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 677 -------------------------
+Avi drew 5 of ♠
+Dani drew 2 of ♥
+Avi won
+------------------------- Round number 678 -------------------------
+Avi drew 6 of ♣
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 679 -------------------------
+Avi drew 2 of ♣
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 680 -------------------------
+Avi drew 5 of ♥
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 681 -------------------------
+Avi drew Jack of ♠
+Dani drew 7 of ♣
+Avi won
+------------------------- Round number 682 -------------------------
+Avi drew 2 of ♠
+Dani drew Jack of ♥
+Dani won
+------------------------- Round number 683 -------------------------
+Avi drew King of ♦
+Dani drew 8 of ♠
+Avi won
+------------------------- Round number 684 -------------------------
+Avi drew 3 of ♦
+Dani drew King of ♥
+Dani won
+------------------------- Round number 685 -------------------------
+Avi drew 7 of ♣
+Dani drew 4 of ♣
+Avi won
+------------------------- Round number 686 -------------------------
+Avi drew 2 of ♥
+Dani drew 7 of ♥
+Dani won
+------------------------- Round number 687 -------------------------
+Avi drew Jack of ♠
+Dani drew Jack of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 3 of ♥
+Dani drew 5 of ♦
+Dani won the war
+------------------------- Round number 688 -------------------------
+Avi drew 8 of ♠
+Dani drew 8 of ♣
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew King of ♦
+Dani drew 8 of ♦
+Avi won the war
+------------------------- Round number 689 -------------------------
+Avi drew 8 of ♦
+Dani drew Ace of ♦
+Avi won
+------------------------- Round number 690 -------------------------
+Avi drew 9 of ♣
+Dani drew 6 of ♥
+Avi won
+------------------------- Round number 691 -------------------------
+Avi drew Queen of ♣
+Dani drew 9 of ♥
+Avi won
+------------------------- Round number 692 -------------------------
+Avi drew 4 of ♣
+Dani drew 4 of ♠
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♠
+Dani drew 2 of ♣
+Dani won the war
+------------------------- Round number 693 -------------------------
+Avi drew 8 of ♠
+Dani drew 10 of ♣
+Dani won
+------------------------- Round number 694 -------------------------
+Avi drew 5 of ♠
+Dani drew 10 of ♠
+Dani won
+------------------------- Round number 695 -------------------------
+Avi drew 8 of ♣
+Dani drew 9 of ♠
+Dani won
+------------------------- Round number 696 -------------------------
+Avi drew 9 of ♥
+Dani drew Queen of ♠
+Dani won
+------------------------- Round number 697 -------------------------
+Avi drew 6 of ♥
+Dani drew 5 of ♥
+Avi won
+------------------------- Round number 698 -------------------------
+Avi drew 9 of ♣
+Dani drew 8 of ♥
+Avi won
+------------------------- Round number 699 -------------------------
+Avi drew Queen of ♣
+Dani drew 3 of ♠
+Avi won
+------------------------- Round number 700 -------------------------
+Avi drew Ace of ♦
+Dani drew Jack of ♦
+Dani won
+------------------------- Round number 701 -------------------------
+Avi drew 8 of ♦
+Dani drew Queen of ♥
+Dani won
+------------------------- Round number 702 -------------------------
+Avi drew Queen of ♣
+Dani drew King of ♠
+Dani won
+------------------------- Round number 703 -------------------------
+Avi drew 5 of ♥
+Dani drew 4 of ♦
+Avi won
+------------------------- Round number 704 -------------------------
+Avi drew 9 of ♣
+Dani drew Ace of ♣
+Avi won
+------------------------- Round number 705 -------------------------
+Avi drew 3 of ♠
+Dani drew 10 of ♦
+Dani won
+------------------------- Round number 706 -------------------------
+Avi drew 8 of ♥
+Dani drew 10 of ♥
+Dani won
+------------------------- Round number 707 -------------------------
+Avi drew 6 of ♥
+Dani drew 2 of ♦
+Avi won
+------------------------- Round number 708 -------------------------
+Avi drew 5 of ♥
+Dani drew 6 of ♠
+Dani won
+------------------------- Round number 709 -------------------------
+Avi drew 2 of ♦
+Dani drew 3 of ♣
+Dani won
+------------------------- Round number 710 -------------------------
+Avi drew 6 of ♥
+Dani drew 6 of ♦
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ♣
+Dani drew 6 of ♣
+Dani won the war
++++++++++++++++++++++++++++++++++++++++
+Dani won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 -------------------------
+Amit drew 3 of ♣
+David drew Queen of ♣
+David won
+------------------------- Round number 2 -------------------------
+Amit drew 5 of ♠
+David drew Ace of ♥
+Amit won
+------------------------- Round number 3 -------------------------
+Amit drew 5 of ♣
+David drew 8 of ♥
+David won
+------------------------- Round number 4 -------------------------
+Amit drew Ace of ♠
+David drew 4 of ♠
+David won
+------------------------- Round number 5 -------------------------
+Amit drew King of ♦
+David drew 4 of ♦
+Amit won
+------------------------- Round number 6 -------------------------
+Amit drew 5 of ♥
+David drew 6 of ♠
+David won
+------------------------- Round number 7 -------------------------
+Amit drew 6 of ♣
+David drew 9 of ♦
+David won
+------------------------- Round number 8 -------------------------
+Amit drew Ace of ♦
+David drew 10 of ♣
+David won
+------------------------- Round number 9 -------------------------
+Amit drew 8 of ♠
+David drew Queen of ♦
+David won
+------------------------- Round number 10 -------------------------
+Amit drew 8 of ♣
+David drew 2 of ♥
+Amit won
+------------------------- Round number 11 -------------------------
+Amit drew 10 of ♦
+David drew 7 of ♣
+Amit won
+------------------------- Round number 12 -------------------------
+Amit drew Jack of ♥
+David drew 3 of ♠
+Amit won
+------------------------- Round number 13 -------------------------
+Amit drew 4 of ♥
+David drew 9 of ♠
+David won
+------------------------- Round number 14 -------------------------
+Amit drew 3 of ♦
+David drew 4 of ♣
+David won
+------------------------- Round number 15 -------------------------
+Amit drew 5 of ♦
+David drew 6 of ♦
+David won
+------------------------- Round number 16 -------------------------
+Amit drew 3 of ♥
+David drew Jack of ♣
+David won
+------------------------- Round number 17 -------------------------
+Amit drew 10 of ♥
+David drew 7 of ♦
+Amit won
+------------------------- Round number 18 -------------------------
+Amit drew 7 of ♥
+David drew King of ♥
+David won
+------------------------- Round number 19 -------------------------
+Amit drew Ace of ♣
+David drew Jack of ♦
+David won
+------------------------- Round number 20 -------------------------
+Amit drew Queen of ♠
+David drew 2 of ♦
+Amit won
+------------------------- Round number 21 -------------------------
+Amit drew Jack of ♠
+David drew Queen of ♥
+David won
+------------------------- Round number 22 -------------------------
+Amit drew 2 of ♣
+David drew 9 of ♥
+David won
+------------------------- Round number 23 -------------------------
+Amit drew 8 of ♦
+David drew King of ♠
+David won
+------------------------- Round number 24 -------------------------
+Amit drew 9 of ♣
+David drew 7 of ♠
+Amit won
+------------------------- Round number 25 -------------------------
+Amit drew King of ♣
+David drew 6 of ♥
+Amit won
+------------------------- Round number 26 -------------------------
+Amit drew 10 of ♠
+David drew 2 of ♠
+Amit won
+------------------------- Round number 27 -------------------------
+Amit drew 7 of ♣
+David drew 9 of ♠
+David won
+------------------------- Round number 28 -------------------------
+Amit drew 2 of ♠
+David drew 9 of ♥
+David won
+------------------------- Round number 29 -------------------------
+Amit drew King of ♣
+David drew Ace of ♦
+Amit won
+------------------------- Round number 30 -------------------------
+Amit drew 2 of ♥
+David drew 9 of ♦
+David won
+------------------------- Round number 31 -------------------------
+Amit drew 7 of ♦
+David drew 3 of ♦
+Amit won
+------------------------- Round number 32 -------------------------
+Amit drew 10 of ♠
+David drew 5 of ♥
+Amit won
+------------------------- Round number 33 -------------------------
+Amit drew 5 of ♠
+David drew Ace of ♠
+Amit won
+------------------------- Round number 34 -------------------------
+Amit drew 6 of ♥
+David drew Jack of ♦
+David won
+------------------------- Round number 35 -------------------------
+Amit drew Jack of ♥
+David drew 4 of ♥
+Amit won
+------------------------- Round number 36 -------------------------
+Amit drew King of ♦
+David drew 4 of ♠
+Amit won
+------------------------- Round number 37 -------------------------
+Amit drew 4 of ♦
+David drew 8 of ♦
+David won
+------------------------- Round number 38 -------------------------
+Amit drew 10 of ♥
+David drew 6 of ♦
+Amit won
+------------------------- Round number 39 -------------------------
+Amit drew 3 of ♠
+David drew Queen of ♥
+David won
+------------------------- Round number 40 -------------------------
+Amit drew 9 of ♣
+David drew Jack of ♠
+David won
+------------------------- Round number 41 -------------------------
+Amit drew 2 of ♦
+David drew 8 of ♥
+David won
+------------------------- Round number 42 -------------------------
+Amit drew 10 of ♦
+David drew 6 of ♠
+Amit won
+------------------------- Round number 43 -------------------------
+Amit drew Ace of ♥
+David drew 3 of ♥
+David won
+------------------------- Round number 44 -------------------------
+Amit drew Queen of ♠
+David drew King of ♥
+David won
+------------------------- Round number 45 -------------------------
+Amit drew 8 of ♣
+David drew 10 of ♣
+David won
+------------------------- Round number 46 -------------------------
+Amit drew 7 of ♠
+David drew 4 of ♣
+Amit won
+------------------------- Round number 47 -------------------------
+Amit drew 6 of ♦
+David drew 6 of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 5 of ♠
+David drew Queen of ♦
+David won the war
+------------------------- Round number 48 -------------------------
+Amit drew 4 of ♣
+David drew 3 of ♣
+Amit won
+------------------------- Round number 49 -------------------------
+Amit drew 5 of ♥
+David drew 5 of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew King of ♦
+David drew 5 of ♦
+Amit won the war
+------------------------- Round number 50 -------------------------
+Amit drew 7 of ♠
+David drew Ace of ♣
+Amit won
+------------------------- Round number 51 -------------------------
+Amit drew 3 of ♦
+David drew Jack of ♣
+David won
+------------------------- Round number 52 -------------------------
+Amit drew 4 of ♠
+David drew 8 of ♠
+David won
+------------------------- Round number 53 -------------------------
+Amit drew 7 of ♦
+David drew Jack of ♣
+David won
+------------------------- Round number 54 -------------------------
+Amit drew Jack of ♥
+David drew 6 of ♦
+Amit won
+------------------------- Round number 55 -------------------------
+Amit drew 6 of ♠
+David drew 9 of ♠
+David won
+------------------------- Round number 56 -------------------------
+Amit drew 10 of ♥
+David drew Queen of ♥
+David won
+------------------------- Round number 57 -------------------------
+Amit drew 10 of ♠
+David drew 5 of ♠
+Amit won
+------------------------- Round number 58 -------------------------
+Amit drew Ace of ♦
+David drew 8 of ♠
+David won
+------------------------- Round number 59 -------------------------
+Amit drew 5 of ♥
+David drew 9 of ♥
+David won
+------------------------- Round number 60 -------------------------
+Amit drew 5 of ♠
+David drew 9 of ♦
+David won
+------------------------- Round number 61 -------------------------
+Amit drew 10 of ♠
+David drew 4 of ♠
+Amit won
+------------------------- Round number 62 -------------------------
+Amit drew 5 of ♦
+David drew 9 of ♣
+David won
+------------------------- Round number 63 -------------------------
+Amit drew 4 of ♣
+David drew Queen of ♣
+David won
+------------------------- Round number 64 -------------------------
+Amit drew King of ♦
+David drew 6 of ♥
+Amit won
+------------------------- Round number 65 -------------------------
+Amit drew Ace of ♣
+David drew King of ♠
+David won
+------------------------- Round number 66 -------------------------
+Amit drew Ace of ♠
+David drew 8 of ♦
+David won
+------------------------- Round number 67 -------------------------
+Amit drew Jack of ♥
+David drew 6 of ♣
+Amit won
+------------------------- Round number 68 -------------------------
+Amit drew 7 of ♠
+David drew 3 of ♠
+Amit won
+------------------------- Round number 69 -------------------------
+Amit drew 3 of ♣
+David drew 2 of ♦
+Amit won
+------------------------- Round number 70 -------------------------
+Amit drew 6 of ♦
+David drew 7 of ♣
+David won
+------------------------- Round number 71 -------------------------
+Amit drew 2 of ♣
+David drew 3 of ♦
+David won
+------------------------- Round number 72 -------------------------
+Amit drew King of ♣
+David drew Queen of ♦
+Amit won
+------------------------- Round number 73 -------------------------
+Amit drew 5 of ♣
+David drew Ace of ♥
+Amit won
+------------------------- Round number 74 -------------------------
+Amit drew 7 of ♥
+David drew 2 of ♠
+Amit won
+------------------------- Round number 75 -------------------------
+Amit drew 6 of ♥
+David drew 10 of ♣
+David won
+------------------------- Round number 76 -------------------------
+Amit drew 10 of ♠
+David drew 8 of ♣
+Amit won
+------------------------- Round number 77 -------------------------
+Amit drew Ace of ♥
+David drew 4 of ♦
+David won
+------------------------- Round number 78 -------------------------
+Amit drew 2 of ♠
+David drew Queen of ♠
+David won
+------------------------- Round number 79 -------------------------
+Amit drew 5 of ♣
+David drew 8 of ♥
+David won
+------------------------- Round number 80 -------------------------
+Amit drew 7 of ♠
+David drew 3 of ♥
+Amit won
+------------------------- Round number 81 -------------------------
+Amit drew 4 of ♠
+David drew 4 of ♥
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew King of ♣
+David drew Jack of ♠
+Amit won the war
+------------------------- Round number 82 -------------------------
+Amit drew 7 of ♥
+David drew 10 of ♦
+David won
+------------------------- Round number 83 -------------------------
+Amit drew Queen of ♦
+David drew King of ♥
+David won
+------------------------- Round number 84 -------------------------
+Amit drew King of ♦
+David drew King of ♥
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 3 of ♠
+David drew 9 of ♦
+David won the war
+------------------------- Round number 85 -------------------------
+Amit drew 10 of ♠
+David drew 9 of ♥
+Amit won
+------------------------- Round number 86 -------------------------
+Amit drew King of ♣
+David drew 7 of ♦
+Amit won
+------------------------- Round number 87 -------------------------
+Amit drew 3 of ♥
+David drew 6 of ♠
+David won
+------------------------- Round number 88 -------------------------
+Amit drew 4 of ♥
+David drew Ace of ♦
+Amit won
+------------------------- Round number 89 -------------------------
+Amit drew 3 of ♣
+David drew 5 of ♣
+David won
+------------------------- Round number 90 -------------------------
+Amit drew Jack of ♦
+David drew 2 of ♣
+Amit won
+------------------------- Round number 91 -------------------------
+Amit drew 6 of ♣
+David drew Queen of ♥
+David won
+------------------------- Round number 92 -------------------------
+Amit drew 8 of ♣
+David drew King of ♠
+David won
+------------------------- Round number 93 -------------------------
+Amit drew 4 of ♠
+David drew Queen of ♠
+David won
+------------------------- Round number 94 -------------------------
+Amit drew 7 of ♠
+David drew 5 of ♥
+Amit won
+------------------------- Round number 95 -------------------------
+Amit drew Jack of ♠
+David drew Ace of ♠
+Amit won
+------------------------- Round number 96 -------------------------
+Amit drew 2 of ♥
+David drew 9 of ♣
+David won
+------------------------- Round number 97 -------------------------
+Amit drew 7 of ♠
+David drew Queen of ♣
+David won
+------------------------- Round number 98 -------------------------
+Amit drew Jack of ♦
+David drew 10 of ♣
+Amit won
+------------------------- Round number 99 -------------------------
+Amit drew Ace of ♦
+David drew 2 of ♠
+David won
+------------------------- Round number 100 -------------------------
+Amit drew Ace of ♠
+David drew Jack of ♣
+David won
+------------------------- Round number 101 -------------------------
+Amit drew 2 of ♣
+David drew 8 of ♥
+David won
+------------------------- Round number 102 -------------------------
+Amit drew 4 of ♥
+David drew Ace of ♣
+Amit won
+------------------------- Round number 103 -------------------------
+Amit drew Jack of ♠
+David drew 8 of ♦
+Amit won
+------------------------- Round number 104 -------------------------
+Amit drew 9 of ♥
+David drew 4 of ♦
+Amit won
+------------------------- Round number 105 -------------------------
+Amit drew 5 of ♥
+David drew Ace of ♥
+Amit won
+------------------------- Round number 106 -------------------------
+Amit drew 10 of ♠
+David drew 9 of ♠
+Amit won
+------------------------- Round number 107 -------------------------
+Amit drew King of ♣
+David drew 5 of ♠
+Amit won
+------------------------- Round number 108 -------------------------
+Amit drew 7 of ♦
+David drew 7 of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew King of ♣
+David drew 6 of ♥
+Amit won the war
+------------------------- Round number 109 -------------------------
+Amit drew 5 of ♠
+David drew 10 of ♦
+David won
+------------------------- Round number 110 -------------------------
+Amit drew Jack of ♦
+David drew 6 of ♦
+Amit won
+------------------------- Round number 111 -------------------------
+Amit drew 9 of ♠
+David drew 3 of ♦
+Amit won
+------------------------- Round number 112 -------------------------
+Amit drew 8 of ♦
+David drew 8 of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 10 of ♠
+David drew Jack of ♣
+David won the war
+------------------------- Round number 113 -------------------------
+Amit drew 4 of ♦
+David drew 2 of ♠
+Amit won
+------------------------- Round number 114 -------------------------
+Amit drew 9 of ♥
+David drew 8 of ♣
+Amit won
+------------------------- Round number 115 -------------------------
+Amit drew 10 of ♣
+David drew 3 of ♠
+Amit won
+------------------------- Round number 116 -------------------------
+Amit drew Ace of ♣
+David drew Queen of ♠
+David won
+------------------------- Round number 117 -------------------------
+Amit drew 5 of ♥
+David drew 9 of ♦
+David won
+------------------------- Round number 118 -------------------------
+Amit drew 2 of ♠
+David drew 5 of ♠
+David won
+------------------------- Round number 119 -------------------------
+Amit drew Jack of ♠
+David drew Queen of ♣
+David won
+------------------------- Round number 120 -------------------------
+Amit drew 10 of ♥
+David drew Queen of ♦
+David won
+------------------------- Round number 121 -------------------------
+Amit drew 7 of ♣
+David drew Ace of ♠
+Amit won
+------------------------- Round number 122 -------------------------
+Amit drew 6 of ♥
+David drew 8 of ♥
+David won
+------------------------- Round number 123 -------------------------
+Amit drew 5 of ♦
+David drew Queen of ♥
+David won
+------------------------- Round number 124 -------------------------
+Amit drew 3 of ♠
+David drew 2 of ♦
+Amit won
+------------------------- Round number 125 -------------------------
+Amit drew Jack of ♦
+David drew 10 of ♦
+Amit won
+------------------------- Round number 126 -------------------------
+Amit drew 4 of ♦
+David drew 7 of ♠
+David won
+------------------------- Round number 127 -------------------------
+Amit drew 6 of ♦
+David drew 9 of ♣
+David won
+------------------------- Round number 128 -------------------------
+Amit drew 8 of ♣
+David drew 5 of ♣
+Amit won
+------------------------- Round number 129 -------------------------
+Amit drew 9 of ♥
+David drew 2 of ♣
+Amit won
+------------------------- Round number 130 -------------------------
+Amit drew 9 of ♠
+David drew 3 of ♥
+Amit won
+------------------------- Round number 131 -------------------------
+Amit drew 7 of ♦
+David drew 2 of ♥
+Amit won
+------------------------- Round number 132 -------------------------
+Amit drew 3 of ♦
+David drew King of ♠
+David won
+------------------------- Round number 133 -------------------------
+Amit drew 10 of ♣
+David drew 4 of ♠
+Amit won
+------------------------- Round number 134 -------------------------
+Amit drew King of ♣
+David drew 6 of ♣
+Amit won
+------------------------- Round number 135 -------------------------
+Amit drew 5 of ♣
+David drew 6 of ♠
+David won
+------------------------- Round number 136 -------------------------
+Amit drew 9 of ♠
+David drew 7 of ♥
+Amit won
+------------------------- Round number 137 -------------------------
+Amit drew 10 of ♦
+David drew Ace of ♦
+Amit won
+------------------------- Round number 138 -------------------------
+Amit drew 3 of ♠
+David drew King of ♦
+David won
+------------------------- Round number 139 -------------------------
+Amit drew 6 of ♣
+David drew King of ♥
+David won
+------------------------- Round number 140 -------------------------
+Amit drew 8 of ♣
+David drew Jack of ♥
+David won
+------------------------- Round number 141 -------------------------
+Amit drew Jack of ♦
+David drew Jack of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 10 of ♣
+David drew 4 of ♥
+Amit won the war
+------------------------- Round number 142 -------------------------
+Amit drew 7 of ♦
+David drew 8 of ♣
+David won
+------------------------- Round number 143 -------------------------
+Amit drew Ace of ♠
+David drew 10 of ♠
+David won
+------------------------- Round number 144 -------------------------
+Amit drew 4 of ♠
+David drew Queen of ♠
+David won
+------------------------- Round number 145 -------------------------
+Amit drew 2 of ♦
+David drew 6 of ♦
+David won
+------------------------- Round number 146 -------------------------
+Amit drew 9 of ♥
+David drew King of ♦
+David won
+------------------------- Round number 147 -------------------------
+Amit drew King of ♣
+David drew 5 of ♣
+Amit won
+------------------------- Round number 148 -------------------------
+Amit drew 2 of ♣
+David drew 3 of ♣
+David won
+------------------------- Round number 149 -------------------------
+Amit drew 7 of ♣
+David drew 6 of ♥
+Amit won
+------------------------- Round number 150 -------------------------
+Amit drew 9 of ♠
+David drew Ace of ♥
+Amit won
+------------------------- Round number 151 -------------------------
+Amit drew Jack of ♠
+David drew 5 of ♠
+Amit won
+------------------------- Round number 152 -------------------------
+Amit drew 6 of ♣
+David drew Ace of ♣
+Amit won
+------------------------- Round number 153 -------------------------
+Amit drew Jack of ♦
+David drew 2 of ♠
+Amit won
+------------------------- Round number 154 -------------------------
+Amit drew King of ♣
+David drew 4 of ♦
+Amit won
+------------------------- Round number 155 -------------------------
+Amit drew 3 of ♥
+David drew 8 of ♠
+David won
+------------------------- Round number 156 -------------------------
+Amit drew 6 of ♥
+David drew 3 of ♠
+Amit won
+------------------------- Round number 157 -------------------------
+Amit drew 8 of ♥
+David drew 9 of ♣
+David won
+------------------------- Round number 158 -------------------------
+Amit drew 4 of ♥
+David drew Jack of ♥
+David won
+------------------------- Round number 159 -------------------------
+Amit drew 10 of ♣
+David drew 3 of ♦
+Amit won
+------------------------- Round number 160 -------------------------
+Amit drew 5 of ♣
+David drew Jack of ♣
+David won
+------------------------- Round number 161 -------------------------
+Amit drew 2 of ♥
+David drew 10 of ♥
+David won
+------------------------- Round number 162 -------------------------
+Amit drew 10 of ♦
+David drew 9 of ♦
+Amit won
+------------------------- Round number 163 -------------------------
+Amit drew 7 of ♥
+David drew 4 of ♣
+Amit won
+------------------------- Round number 164 -------------------------
+Amit drew Ace of ♦
+David drew 5 of ♥
+David won
+------------------------- Round number 165 -------------------------
+Amit drew 7 of ♣
+David drew 8 of ♦
+David won
+------------------------- Round number 166 -------------------------
+Amit drew 2 of ♠
+David drew 5 of ♦
+David won
+------------------------- Round number 167 -------------------------
+Amit drew 4 of ♦
+David drew Queen of ♦
+David won
+------------------------- Round number 168 -------------------------
+Amit drew 9 of ♦
+David drew King of ♠
+David won
+------------------------- Round number 169 -------------------------
+Amit drew 3 of ♦
+David drew 6 of ♠
+David won
+------------------------- Round number 170 -------------------------
+Amit drew 7 of ♥
+David drew Queen of ♣
+David won
+------------------------- Round number 171 -------------------------
+Amit drew 9 of ♠
+David drew 7 of ♠
+Amit won
+------------------------- Round number 172 -------------------------
+Amit drew 3 of ♠
+David drew King of ♥
+David won
+------------------------- Round number 173 -------------------------
+Amit drew 10 of ♣
+David drew Queen of ♥
+David won
+------------------------- Round number 174 -------------------------
+Amit drew Ace of ♥
+David drew Queen of ♥
+David won
+------------------------- Round number 175 -------------------------
+Amit drew 10 of ♦
+David drew King of ♦
+David won
+------------------------- Round number 176 -------------------------
+Amit drew Jack of ♠
+David drew 10 of ♥
+Amit won
+------------------------- Round number 177 -------------------------
+Amit drew King of ♣
+David drew 9 of ♣
+Amit won
+------------------------- Round number 178 -------------------------
+Amit drew 6 of ♥
+David drew Queen of ♠
+David won
+------------------------- Round number 179 -------------------------
+Amit drew 6 of ♣
+David drew 8 of ♥
+David won
+------------------------- Round number 180 -------------------------
+Amit drew 4 of ♣
+David drew 2 of ♠
+Amit won
+------------------------- Round number 181 -------------------------
+Amit drew 5 of ♠
+David drew 5 of ♥
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 4 of ♣
+David drew Jack of ♣
+David won the war
+------------------------- Round number 182 -------------------------
+Amit drew 9 of ♠
+David drew 9 of ♦
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 9 of ♣
+David drew Queen of ♦
+David won the war
+------------------------- Round number 183 -------------------------
+Amit drew King of ♣
+David drew 8 of ♣
+Amit won
+------------------------- Round number 184 -------------------------
+Amit drew Jack of ♠
+David drew 2 of ♦
+Amit won
+------------------------- Round number 185 -------------------------
+Amit drew 10 of ♥
+David drew 2 of ♣
+Amit won
+------------------------- Round number 186 -------------------------
+Amit drew 2 of ♣
+David drew 10 of ♣
+David won
+------------------------- Round number 187 -------------------------
+Amit drew King of ♣
+David drew 8 of ♠
+Amit won
+------------------------- Round number 188 -------------------------
+Amit drew 8 of ♣
+David drew 10 of ♠
+David won
+------------------------- Round number 189 -------------------------
+Amit drew 2 of ♦
+David drew 3 of ♠
+David won
+------------------------- Round number 190 -------------------------
+Amit drew 10 of ♥
+David drew 3 of ♣
+Amit won
+------------------------- Round number 191 -------------------------
+Amit drew Jack of ♠
+David drew 2 of ♥
+Amit won
+------------------------- Round number 192 -------------------------
+Amit drew 8 of ♠
+David drew Jack of ♥
+David won
+------------------------- Round number 193 -------------------------
+Amit drew 3 of ♣
+David drew 7 of ♦
+David won
+------------------------- Round number 194 -------------------------
+Amit drew Jack of ♠
+David drew 5 of ♦
+Amit won
+------------------------- Round number 195 -------------------------
+Amit drew 2 of ♥
+David drew Queen of ♣
+David won
+------------------------- Round number 196 -------------------------
+Amit drew 10 of ♥
+David drew 4 of ♦
+Amit won
+------------------------- Round number 197 -------------------------
+Amit drew King of ♣
+David drew 6 of ♠
+Amit won
+------------------------- Round number 198 -------------------------
+Amit drew Jack of ♠
+David drew 3 of ♦
+Amit won
+------------------------- Round number 199 -------------------------
+Amit drew King of ♣
+David drew 7 of ♣
+Amit won
+------------------------- Round number 200 -------------------------
+Amit drew 4 of ♦
+David drew 8 of ♦
+David won
+------------------------- Round number 201 -------------------------
+Amit drew 5 of ♦
+David drew Ace of ♦
+Amit won
+------------------------- Round number 202 -------------------------
+Amit drew 10 of ♥
+David drew 4 of ♠
+Amit won
+------------------------- Round number 203 -------------------------
+Amit drew 6 of ♠
+David drew 7 of ♥
+David won
+------------------------- Round number 204 -------------------------
+Amit drew 5 of ♦
+David drew King of ♥
+David won
+------------------------- Round number 205 -------------------------
+Amit drew 7 of ♣
+David drew 4 of ♥
+Amit won
+------------------------- Round number 206 -------------------------
+Amit drew Ace of ♦
+David drew 5 of ♣
+David won
+------------------------- Round number 207 -------------------------
+Amit drew 4 of ♠
+David drew 9 of ♥
+David won
+------------------------- Round number 208 -------------------------
+Amit drew 3 of ♦
+David drew 3 of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Jack of ♠
+David drew 8 of ♦
+Amit won the war
+------------------------- Round number 209 -------------------------
+Amit drew 10 of ♥
+David drew 10 of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew King of ♣
+David drew 5 of ♣
+Amit won the war
+------------------------- Round number 210 -------------------------
+Amit drew 8 of ♦
+David drew 7 of ♦
+Amit won
+------------------------- Round number 211 -------------------------
+Amit drew 3 of ♦
+David drew 4 of ♣
+David won
+------------------------- Round number 212 -------------------------
+Amit drew 4 of ♥
+David drew 8 of ♣
+David won
+------------------------- Round number 213 -------------------------
+Amit drew Jack of ♠
+David drew 7 of ♥
+Amit won
+------------------------- Round number 214 -------------------------
+Amit drew 4 of ♠
+David drew 10 of ♦
+David won
+------------------------- Round number 215 -------------------------
+Amit drew 7 of ♣
+David drew 6 of ♣
+Amit won
+------------------------- Round number 216 -------------------------
+Amit drew 7 of ♣
+David drew 6 of ♦
+Amit won
+------------------------- Round number 217 -------------------------
+Amit drew 2 of ♥
+David drew King of ♥
+David won
+------------------------- Round number 218 -------------------------
+Amit drew Queen of ♥
+David drew 2 of ♣
+Amit won
+------------------------- Round number 219 -------------------------
+Amit drew 8 of ♦
+David drew 10 of ♠
+David won
+------------------------- Round number 220 -------------------------
+Amit drew 10 of ♣
+David drew 5 of ♦
+Amit won
+------------------------- Round number 221 -------------------------
+Amit drew Jack of ♠
+David drew Queen of ♠
+David won
+------------------------- Round number 222 -------------------------
+Amit drew King of ♣
+David drew 8 of ♠
+Amit won
+------------------------- Round number 223 -------------------------
+Amit drew 7 of ♥
+David drew 3 of ♣
+Amit won
+------------------------- Round number 224 -------------------------
+Amit drew 6 of ♣
+David drew King of ♠
+David won
+------------------------- Round number 225 -------------------------
+Amit drew 3 of ♠
+David drew Queen of ♣
+David won
+------------------------- Round number 226 -------------------------
+Amit drew 10 of ♥
+David drew Queen of ♦
+David won
+------------------------- Round number 227 -------------------------
+Amit drew Ace of ♠
+David drew 5 of ♥
+David won
+------------------------- Round number 228 -------------------------
+Amit drew 5 of ♣
+David drew 9 of ♥
+David won
+------------------------- Round number 229 -------------------------
+Amit drew 7 of ♦
+David drew 7 of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 7 of ♥
+David drew 2 of ♦
+Amit won the war
+------------------------- Round number 230 -------------------------
+Amit drew King of ♣
+David drew 5 of ♠
+Amit won
+------------------------- Round number 231 -------------------------
+Amit drew 8 of ♠
+David drew Ace of ♣
+Amit won
+------------------------- Round number 232 -------------------------
+Amit drew 3 of ♣
+David drew 9 of ♦
+David won
+------------------------- Round number 233 -------------------------
+Amit drew 10 of ♣
+David drew 6 of ♠
+Amit won
+------------------------- Round number 234 -------------------------
+Amit drew 6 of ♦
+David drew 8 of ♥
+David won
+------------------------- Round number 235 -------------------------
+Amit drew 7 of ♣
+David drew Ace of ♥
+Amit won
+------------------------- Round number 236 -------------------------
+Amit drew 5 of ♦
+David drew 3 of ♥
+Amit won
+------------------------- Round number 237 -------------------------
+Amit drew 2 of ♣
+David drew 6 of ♥
+David won
+------------------------- Round number 238 -------------------------
+Amit drew 2 of ♦
+David drew 9 of ♠
+David won
+------------------------- Round number 239 -------------------------
+Amit drew 5 of ♠
+David drew Jack of ♥
+David won
+------------------------- Round number 240 -------------------------
+Amit drew 6 of ♠
+David drew 4 of ♦
+Amit won
+------------------------- Round number 241 -------------------------
+Amit drew 7 of ♦
+David drew Jack of ♦
+David won
+------------------------- Round number 242 -------------------------
+Amit drew King of ♣
+David drew Jack of ♣
+Amit won
+------------------------- Round number 243 -------------------------
+Amit drew 10 of ♣
+David drew 9 of ♣
+Amit won
+------------------------- Round number 244 -------------------------
+Amit drew Ace of ♥
+David drew King of ♦
+David won
+------------------------- Round number 245 -------------------------
+Amit drew Ace of ♦
+David drew 9 of ♦
+David won
+------------------------- Round number 246 -------------------------
+Amit drew 7 of ♣
+David drew 7 of ♦
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 3 of ♥
+David drew 6 of ♣
+David won the war
+------------------------- Round number 247 -------------------------
+Amit drew 5 of ♦
+David drew King of ♦
+David won
+------------------------- Round number 248 -------------------------
+Amit drew 8 of ♠
+David drew 4 of ♠
+Amit won
+------------------------- Round number 249 -------------------------
+Amit drew Queen of ♥
+David drew 5 of ♠
+Amit won
+------------------------- Round number 250 -------------------------
+Amit drew 7 of ♥
+David drew 2 of ♣
+Amit won
+------------------------- Round number 251 -------------------------
+Amit drew 7 of ♠
+David drew 8 of ♥
+David won
+------------------------- Round number 252 -------------------------
+Amit drew King of ♣
+David drew 10 of ♦
+Amit won
+------------------------- Round number 253 -------------------------
+Amit drew Jack of ♣
+David drew 10 of ♥
+Amit won
+------------------------- Round number 254 -------------------------
+Amit drew 9 of ♣
+David drew 2 of ♦
+Amit won
+------------------------- Round number 255 -------------------------
+Amit drew 4 of ♠
+David drew 10 of ♠
+David won
+------------------------- Round number 256 -------------------------
+Amit drew Queen of ♥
+David drew Jack of ♥
+Amit won
+------------------------- Round number 257 -------------------------
+Amit drew 6 of ♠
+David drew Queen of ♠
+David won
+------------------------- Round number 258 -------------------------
+Amit drew 7 of ♥
+David drew 3 of ♠
+Amit won
+------------------------- Round number 259 -------------------------
+Amit drew 2 of ♣
+David drew 6 of ♦
+David won
+------------------------- Round number 260 -------------------------
+Amit drew 4 of ♦
+David drew 3 of ♣
+Amit won
+------------------------- Round number 261 -------------------------
+Amit drew 5 of ♠
+David drew 9 of ♠
+David won
+------------------------- Round number 262 -------------------------
+Amit drew 8 of ♠
+David drew 9 of ♥
+David won
+------------------------- Round number 263 -------------------------
+Amit drew 10 of ♣
+David drew 5 of ♥
+Amit won
+------------------------- Round number 264 -------------------------
+Amit drew 3 of ♠
+David drew King of ♥
+David won
+------------------------- Round number 265 -------------------------
+Amit drew Queen of ♥
+David drew Jack of ♠
+Amit won
+------------------------- Round number 266 -------------------------
+Amit drew 7 of ♥
+David drew 4 of ♥
+Amit won
+------------------------- Round number 267 -------------------------
+Amit drew 5 of ♥
+David drew Jack of ♦
+David won
+------------------------- Round number 268 -------------------------
+Amit drew 10 of ♣
+David drew Queen of ♣
+David won
+------------------------- Round number 269 -------------------------
+Amit drew King of ♣
+David drew 4 of ♣
+Amit won
+------------------------- Round number 270 -------------------------
+Amit drew 10 of ♦
+David drew 8 of ♣
+Amit won
+------------------------- Round number 271 -------------------------
+Amit drew 2 of ♦
+David drew Ace of ♠
+Amit won
+------------------------- Round number 272 -------------------------
+Amit drew Jack of ♥
+David drew Ace of ♥
+Amit won
+------------------------- Round number 273 -------------------------
+Amit drew 10 of ♥
+David drew Queen of ♦
+David won
+------------------------- Round number 274 -------------------------
+Amit drew 9 of ♣
+David drew 2 of ♥
+Amit won
+------------------------- Round number 275 -------------------------
+Amit drew Jack of ♣
+David drew King of ♠
+David won
+------------------------- Round number 276 -------------------------
+Amit drew 4 of ♦
+David drew 5 of ♣
+David won
+------------------------- Round number 277 -------------------------
+Amit drew 3 of ♣
+David drew 3 of ♦
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 2 of ♦
+David drew King of ♦
+David won the war
+------------------------- Round number 278 -------------------------
+Amit drew Jack of ♥
+David drew 5 of ♣
+Amit won
+------------------------- Round number 279 -------------------------
+Amit drew Queen of ♥
+David drew 6 of ♦
+Amit won
+------------------------- Round number 280 -------------------------
+Amit drew King of ♣
+David drew 6 of ♣
+Amit won
+------------------------- Round number 281 -------------------------
+Amit drew Ace of ♠
+David drew 10 of ♥
+David won
+------------------------- Round number 282 -------------------------
+Amit drew 8 of ♣
+David drew Ace of ♣
+Amit won
+------------------------- Round number 283 -------------------------
+Amit drew 7 of ♥
+David drew 2 of ♣
+Amit won
+------------------------- Round number 284 -------------------------
+Amit drew 2 of ♥
+David drew 5 of ♥
+David won
+------------------------- Round number 285 -------------------------
+Amit drew 9 of ♣
+David drew 8 of ♦
+Amit won
+------------------------- Round number 286 -------------------------
+Amit drew Ace of ♥
+David drew 8 of ♥
+David won
+------------------------- Round number 287 -------------------------
+Amit drew 4 of ♣
+David drew 10 of ♠
+David won
+------------------------- Round number 288 -------------------------
+Amit drew Jack of ♠
+David drew Queen of ♣
+David won
+------------------------- Round number 289 -------------------------
+Amit drew 2 of ♣
+David drew 9 of ♥
+David won
+------------------------- Round number 290 -------------------------
+Amit drew 6 of ♣
+David drew 7 of ♠
+David won
+------------------------- Round number 291 -------------------------
+Amit drew 8 of ♣
+David drew 7 of ♦
+Amit won
+------------------------- Round number 292 -------------------------
+Amit drew Queen of ♥
+David drew Jack of ♦
+Amit won
+------------------------- Round number 293 -------------------------
+Amit drew 6 of ♦
+David drew 2 of ♠
+Amit won
+------------------------- Round number 294 -------------------------
+Amit drew Ace of ♣
+David drew Queen of ♦
+David won
+------------------------- Round number 295 -------------------------
+Amit drew 9 of ♣
+David drew 10 of ♣
+David won
+------------------------- Round number 296 -------------------------
+Amit drew 8 of ♦
+David drew Jack of ♣
+David won
+------------------------- Round number 297 -------------------------
+Amit drew King of ♣
+David drew 5 of ♠
+Amit won
+------------------------- Round number 298 -------------------------
+Amit drew 7 of ♥
+David drew King of ♥
+David won
+------------------------- Round number 299 -------------------------
+Amit drew 5 of ♣
+David drew 3 of ♠
+Amit won
+------------------------- Round number 300 -------------------------
+Amit drew Jack of ♥
+David drew 4 of ♦
+Amit won
+------------------------- Round number 301 -------------------------
+Amit drew Jack of ♦
+David drew 6 of ♠
+Amit won
+------------------------- Round number 302 -------------------------
+Amit drew 8 of ♣
+David drew 3 of ♥
+Amit won
+------------------------- Round number 303 -------------------------
+Amit drew 5 of ♠
+David drew 9 of ♦
+David won
+------------------------- Round number 304 -------------------------
+Amit drew 4 of ♦
+David drew 5 of ♦
+David won
+------------------------- Round number 305 -------------------------
+Amit drew 3 of ♠
+David drew 9 of ♠
+David won
+------------------------- Round number 306 -------------------------
+Amit drew Queen of ♥
+David drew Ace of ♦
+Amit won
+------------------------- Round number 307 -------------------------
+Amit drew 6 of ♦
+David drew 7 of ♣
+David won
+------------------------- Round number 308 -------------------------
+Amit drew King of ♣
+David drew King of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 2 of ♠
+David drew Queen of ♠
+David won the war
+------------------------- Round number 309 -------------------------
+Amit drew 7 of ♦
+David drew 6 of ♥
+Amit won
+------------------------- Round number 310 -------------------------
+Amit drew 8 of ♣
+David drew 10 of ♥
+David won
+------------------------- Round number 311 -------------------------
+Amit drew 6 of ♠
+David drew 4 of ♦
+Amit won
+------------------------- Round number 312 -------------------------
+Amit drew 6 of ♥
+David drew 10 of ♦
+David won
+------------------------- Round number 313 -------------------------
+Amit drew 7 of ♦
+David drew 6 of ♣
+Amit won
+------------------------- Round number 314 -------------------------
+Amit drew Queen of ♥
+David drew Queen of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Jack of ♦
+David drew 5 of ♦
+Amit won the war
+------------------------- Round number 315 -------------------------
+Amit drew Jack of ♦
+David drew 5 of ♥
+Amit won
+------------------------- Round number 316 -------------------------
+Amit drew Ace of ♦
+David drew 9 of ♦
+David won
+------------------------- Round number 317 -------------------------
+Amit drew 4 of ♦
+David drew 4 of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Queen of ♣
+David drew 5 of ♠
+Amit won the war
+------------------------- Round number 318 -------------------------
+Amit drew 9 of ♠
+David drew 7 of ♣
+Amit won
+------------------------- Round number 319 -------------------------
+Amit drew 3 of ♠
+David drew Ace of ♥
+Amit won
+------------------------- Round number 320 -------------------------
+Amit drew 6 of ♠
+David drew 3 of ♦
+Amit won
+------------------------- Round number 321 -------------------------
+Amit drew 7 of ♦
+David drew 6 of ♦
+Amit won
+------------------------- Round number 322 -------------------------
+Amit drew 6 of ♣
+David drew Queen of ♦
+David won
+------------------------- Round number 323 -------------------------
+Amit drew 3 of ♥
+David drew King of ♥
+David won
+------------------------- Round number 324 -------------------------
+Amit drew 5 of ♥
+David drew 8 of ♥
+David won
+------------------------- Round number 325 -------------------------
+Amit drew 3 of ♠
+David drew 10 of ♣
+David won
+------------------------- Round number 326 -------------------------
+Amit drew 3 of ♦
+David drew Ace of ♠
+Amit won
+------------------------- Round number 327 -------------------------
+Amit drew 9 of ♠
+David drew King of ♦
+David won
+------------------------- Round number 328 -------------------------
+Amit drew Ace of ♥
+David drew Ace of ♣
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 5 of ♠
+David drew 2 of ♣
+Amit won the war
+------------------------- Round number 329 -------------------------
+Amit drew 5 of ♦
+David drew 9 of ♥
+David won
+------------------------- Round number 330 -------------------------
+Amit drew Queen of ♣
+David drew 8 of ♦
+Amit won
+------------------------- Round number 331 -------------------------
+Amit drew 7 of ♦
+David drew 9 of ♣
+David won
+------------------------- Round number 332 -------------------------
+Amit drew 4 of ♦
+David drew 10 of ♠
+David won
+------------------------- Round number 333 -------------------------
+Amit drew Queen of ♥
+David drew Jack of ♠
+Amit won
+------------------------- Round number 334 -------------------------
+Amit drew 6 of ♠
+David drew 4 of ♥
+Amit won
+------------------------- Round number 335 -------------------------
+Amit drew 6 of ♦
+David drew 2 of ♥
+Amit won
+------------------------- Round number 336 -------------------------
+Amit drew 2 of ♦
+David drew 7 of ♠
+David won
+------------------------- Round number 337 -------------------------
+Amit drew 7 of ♣
+David drew 4 of ♠
+Amit won
+------------------------- Round number 338 -------------------------
+Amit drew Jack of ♦
+David drew Jack of ♥
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 3 of ♣
+David drew 5 of ♣
+David won the war
+------------------------- Round number 339 -------------------------
+Amit drew 2 of ♥
+David drew King of ♦
+David won
+------------------------- Round number 340 -------------------------
+Amit drew Queen of ♣
+David drew Queen of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Queen of ♥
+David drew 6 of ♣
+Amit won the war
+------------------------- Round number 341 -------------------------
+Amit drew 4 of ♥
+David drew 4 of ♦
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 2 of ♣
+David drew 7 of ♠
+David won the war
+------------------------- Round number 342 -------------------------
+Amit drew 4 of ♠
+David drew 9 of ♥
+David won
+------------------------- Round number 343 -------------------------
+Amit drew Ace of ♥
+David drew 6 of ♥
+David won
+------------------------- Round number 344 -------------------------
+Amit drew 6 of ♠
+David drew 10 of ♥
+David won
+------------------------- Round number 345 -------------------------
+Amit drew 6 of ♦
+David drew 8 of ♥
+David won
+------------------------- Round number 346 -------------------------
+Amit drew 7 of ♣
+David drew 2 of ♠
+Amit won
+------------------------- Round number 347 -------------------------
+Amit drew 4 of ♣
+David drew 10 of ♠
+David won
+------------------------- Round number 348 -------------------------
+Amit drew Ace of ♠
+David drew 8 of ♠
+David won
+------------------------- Round number 349 -------------------------
+Amit drew 3 of ♦
+David drew 3 of ♠
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 7 of ♣
+David drew King of ♣
+David won the war
+------------------------- Round number 350 -------------------------
+Amit drew Queen of ♠
+David drew King of ♠
+David won
+------------------------- Round number 351 -------------------------
+Amit drew Queen of ♥
+David drew 5 of ♦
+Amit won
+------------------------- Round number 352 -------------------------
+Amit drew 6 of ♣
+David drew 5 of ♥
+Amit won
+------------------------- Round number 353 -------------------------
+Amit drew Queen of ♦
+David drew 3 of ♥
+Amit won
+------------------------- Round number 354 -------------------------
+Amit drew 2 of ♠
+David drew Ace of ♦
+Amit won
+------------------------- Round number 355 -------------------------
+Amit drew 7 of ♥
+David drew 9 of ♣
+David won
+------------------------- Round number 356 -------------------------
+Amit drew Jack of ♣
+David drew 7 of ♦
+Amit won
+------------------------- Round number 357 -------------------------
+Amit drew 5 of ♥
+David drew 6 of ♦
+David won
+------------------------- Round number 358 -------------------------
+Amit drew 7 of ♦
+David drew 10 of ♥
+David won
+------------------------- Round number 359 -------------------------
+Amit drew Jack of ♣
+David drew 3 of ♣
+Amit won
+------------------------- Round number 360 -------------------------
+Amit drew 6 of ♣
+David drew Ace of ♠
+Amit won
+------------------------- Round number 361 -------------------------
+Amit drew 5 of ♦
+David drew 9 of ♥
+David won
+------------------------- Round number 362 -------------------------
+Amit drew Queen of ♦
+David drew Ace of ♥
+Amit won
+------------------------- Round number 363 -------------------------
+Amit drew Queen of ♥
+David drew 6 of ♠
+Amit won
+------------------------- Round number 364 -------------------------
+Amit drew Ace of ♦
+David drew 2 of ♦
+David won
+------------------------- Round number 365 -------------------------
+Amit drew 2 of ♠
+David drew 7 of ♣
+David won
+------------------------- Round number 366 -------------------------
+Amit drew 3 of ♥
+David drew 10 of ♦
+David won
+------------------------- Round number 367 -------------------------
+Amit drew Jack of ♣
+David drew 8 of ♣
+Amit won
+------------------------- Round number 368 -------------------------
+Amit drew Queen of ♦
+David drew King of ♣
+David won
+------------------------- Round number 369 -------------------------
+Amit drew Queen of ♥
+David drew 5 of ♣
+Amit won
+------------------------- Round number 370 -------------------------
+Amit drew Ace of ♥
+David drew 3 of ♠
+David won
+------------------------- Round number 371 -------------------------
+Amit drew 6 of ♠
+David drew King of ♦
+David won
+------------------------- Round number 372 -------------------------
+Amit drew 6 of ♣
+David drew 3 of ♦
+Amit won
+------------------------- Round number 373 -------------------------
+Amit drew 3 of ♣
+David drew 5 of ♠
+David won
+------------------------- Round number 374 -------------------------
+Amit drew Ace of ♠
+David drew 2 of ♣
+David won
+------------------------- Round number 375 -------------------------
+Amit drew Jack of ♣
+David drew 10 of ♠
+Amit won
+------------------------- Round number 376 -------------------------
+Amit drew 5 of ♣
+David drew 2 of ♥
+Amit won
+------------------------- Round number 377 -------------------------
+Amit drew 8 of ♣
+David drew 9 of ♠
+David won
+------------------------- Round number 378 -------------------------
+Amit drew 6 of ♣
+David drew 8 of ♦
+David won
+------------------------- Round number 379 -------------------------
+Amit drew Queen of ♥
+David drew 8 of ♥
+Amit won
+------------------------- Round number 380 -------------------------
+Amit drew 3 of ♦
+David drew 4 of ♠
+David won
+------------------------- Round number 381 -------------------------
+Amit drew 10 of ♠
+David drew Jack of ♠
+David won
+------------------------- Round number 382 -------------------------
+Amit drew Jack of ♣
+David drew King of ♠
+David won
+------------------------- Round number 383 -------------------------
+Amit drew Queen of ♥
+David drew 8 of ♠
+Amit won
+------------------------- Round number 384 -------------------------
+Amit drew 2 of ♥
+David drew Jack of ♦
+David won
+------------------------- Round number 385 -------------------------
+Amit drew 8 of ♥
+David drew Ace of ♣
+Amit won
+------------------------- Round number 386 -------------------------
+Amit drew 5 of ♣
+David drew 6 of ♥
+David won
+------------------------- Round number 387 -------------------------
+Amit drew 8 of ♠
+David drew 4 of ♣
+Amit won
+------------------------- Round number 388 -------------------------
+Amit drew Queen of ♥
+David drew 7 of ♥
+Amit won
+------------------------- Round number 389 -------------------------
+Amit drew Ace of ♣
+David drew Jack of ♥
+David won
+------------------------- Round number 390 -------------------------
+Amit drew 8 of ♥
+David drew Queen of ♣
+David won
+------------------------- Round number 391 -------------------------
+Amit drew 8 of ♠
+David drew 10 of ♣
+David won
+------------------------- Round number 392 -------------------------
+Amit drew 7 of ♥
+David drew 4 of ♦
+Amit won
+------------------------- Round number 393 -------------------------
+Amit drew 4 of ♣
+David drew 7 of ♠
+David won
+------------------------- Round number 394 -------------------------
+Amit drew Queen of ♥
+David drew 9 of ♣
+Amit won
+------------------------- Round number 395 -------------------------
+Amit drew 4 of ♦
+David drew 9 of ♦
+David won
+------------------------- Round number 396 -------------------------
+Amit drew 7 of ♥
+David drew 4 of ♥
+Amit won
+------------------------- Round number 397 -------------------------
+Amit drew Queen of ♥
+David drew King of ♥
+David won
+------------------------- Round number 398 -------------------------
+Amit drew 9 of ♣
+David drew Queen of ♠
+David won
+------------------------- Round number 399 -------------------------
+Amit drew 4 of ♥
+David drew Queen of ♠
+David won
+------------------------- Round number 400 -------------------------
+Amit drew 7 of ♥
+David drew Jack of ♠
+David won
++++++++++++++++++++++++++++++++++++++++
+David won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 -------------------------
+Amir drew 10 of ♥
+Yuval drew 6 of ♠
+Amir won
+------------------------- Round number 2 -------------------------
+Amir drew 5 of ♠
+Yuval drew 9 of ♦
+Yuval won
+------------------------- Round number 3 -------------------------
+Amir drew King of ♣
+Yuval drew Queen of ♦
+Amir won
+------------------------- Round number 4 -------------------------
+Amir drew 9 of ♠
+Yuval drew King of ♦
+Yuval won
+------------------------- Round number 5 -------------------------
+Amir drew 2 of ♣
+Yuval drew 6 of ♣
+Yuval won
+------------------------- Round number 6 -------------------------
+Amir drew Ace of ♣
+Yuval drew 7 of ♥
+Yuval won
+------------------------- Round number 7 -------------------------
+Amir drew 7 of ♣
+Yuval drew 10 of ♠
+Yuval won
+------------------------- Round number 8 -------------------------
+Amir drew Jack of ♣
+Yuval drew Jack of ♠
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Queen of ♣
+Yuval drew 10 of ♦
+Amir won the war
+------------------------- Round number 9 -------------------------
+Amir drew Ace of ♠
+Yuval drew 10 of ♣
+Yuval won
+------------------------- Round number 10 -------------------------
+Amir drew 3 of ♠
+Yuval drew 2 of ♠
+Amir won
+------------------------- Round number 11 -------------------------
+Amir drew Jack of ♥
+Yuval drew 4 of ♥
+Amir won
+------------------------- Round number 12 -------------------------
+Amir drew 3 of ♣
+Yuval drew 5 of ♦
+Yuval won
+------------------------- Round number 13 -------------------------
+Amir drew King of ♥
+Yuval drew 4 of ♦
+Amir won
+------------------------- Round number 14 -------------------------
+Amir drew 7 of ♦
+Yuval drew 4 of ♠
+Amir won
+------------------------- Round number 15 -------------------------
+Amir drew Jack of ♦
+Yuval drew 6 of ♦
+Amir won
+------------------------- Round number 16 -------------------------
+Amir drew 2 of ♦
+Yuval drew Ace of ♦
+Amir won
+------------------------- Round number 17 -------------------------
+Amir drew 8 of ♣
+Yuval drew 7 of ♠
+Amir won
+------------------------- Round number 18 -------------------------
+Amir drew Queen of ♥
+Yuval drew 9 of ♣
+Amir won
+------------------------- Round number 19 -------------------------
+Amir drew 4 of ♣
+Yuval drew 3 of ♥
+Amir won
+------------------------- Round number 20 -------------------------
+Amir drew 2 of ♥
+Yuval drew Queen of ♠
+Yuval won
+------------------------- Round number 21 -------------------------
+Amir drew 5 of ♥
+Yuval drew Ace of ♥
+Amir won
+------------------------- Round number 22 -------------------------
+Amir drew 8 of ♠
+Yuval drew 5 of ♣
+Amir won
+------------------------- Round number 23 -------------------------
+Amir drew 8 of ♥
+Yuval drew 8 of ♦
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 7 of ♠
+Yuval drew 3 of ♣
+Amir won the war
+------------------------- Round number 24 -------------------------
+Amir drew Queen of ♣
+Yuval drew Ace of ♠
+Amir won
+------------------------- Round number 25 -------------------------
+Amir drew 3 of ♠
+Yuval drew Queen of ♠
+Yuval won
+------------------------- Round number 26 -------------------------
+Amir drew King of ♥
+Yuval drew 5 of ♦
+Amir won
+------------------------- Round number 27 -------------------------
+Amir drew 3 of ♥
+Yuval drew King of ♦
+Yuval won
+------------------------- Round number 28 -------------------------
+Amir drew Jack of ♠
+Yuval drew 10 of ♣
+Amir won
+------------------------- Round number 29 -------------------------
+Amir drew Queen of ♥
+Yuval drew 2 of ♥
+Amir won
+------------------------- Round number 30 -------------------------
+Amir drew 5 of ♥
+Yuval drew Ace of ♣
+Amir won
+------------------------- Round number 31 -------------------------
+Amir drew 7 of ♦
+Yuval drew 10 of ♠
+Yuval won
+------------------------- Round number 32 -------------------------
+Amir drew Queen of ♦
+Yuval drew 9 of ♠
+Amir won
+------------------------- Round number 33 -------------------------
+Amir drew Ace of ♥
+Yuval drew 2 of ♣
+Yuval won
+------------------------- Round number 34 -------------------------
+Amir drew 4 of ♥
+Yuval drew 7 of ♥
+Yuval won
+------------------------- Round number 35 -------------------------
+Amir drew 8 of ♣
+Yuval drew 5 of ♠
+Amir won
+------------------------- Round number 36 -------------------------
+Amir drew Ace of ♦
+Yuval drew 7 of ♣
+Yuval won
+------------------------- Round number 37 -------------------------
+Amir drew 10 of ♦
+Yuval drew 7 of ♦
+Amir won
+------------------------- Round number 38 -------------------------
+Amir drew 2 of ♠
+Yuval drew King of ♦
+Yuval won
+------------------------- Round number 39 -------------------------
+Amir drew 4 of ♦
+Yuval drew 4 of ♥
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Jack of ♦
+Yuval drew 2 of ♣
+Amir won the war
+------------------------- Round number 40 -------------------------
+Amir drew 3 of ♦
+Yuval drew 10 of ♠
+Yuval won
+------------------------- Round number 41 -------------------------
+Amir drew 5 of ♣
+Yuval drew Ace of ♦
+Amir won
+------------------------- Round number 42 -------------------------
+Amir drew 8 of ♠
+Yuval drew 7 of ♥
+Amir won
+------------------------- Round number 43 -------------------------
+Amir drew 10 of ♥
+Yuval drew 3 of ♠
+Amir won
+------------------------- Round number 44 -------------------------
+Amir drew King of ♠
+Yuval drew Ace of ♥
+Amir won
+------------------------- Round number 45 -------------------------
+Amir drew 6 of ♦
+Yuval drew 3 of ♥
+Amir won
+------------------------- Round number 46 -------------------------
+Amir drew King of ♣
+Yuval drew 3 of ♦
+Amir won
+------------------------- Round number 47 -------------------------
+Amir drew Jack of ♥
+Yuval drew King of ♦
+Yuval won
+------------------------- Round number 48 -------------------------
+Amir drew 2 of ♦
+Yuval drew 2 of ♠
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 9 of ♥
+Yuval drew Jack of ♥
+Yuval won the war
+------------------------- Round number 49 -------------------------
+Amir drew 4 of ♥
+Yuval drew 6 of ♠
+Yuval won
+------------------------- Round number 50 -------------------------
+Amir drew 9 of ♦
+Yuval drew 2 of ♠
+Amir won
+------------------------- Round number 51 -------------------------
+Amir drew Jack of ♣
+Yuval drew Jack of ♥
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Ace of ♦
+Yuval drew King of ♦
+Yuval won the war
+------------------------- Round number 52 -------------------------
+Amir drew 7 of ♦
+Yuval drew 10 of ♠
+Yuval won
+------------------------- Round number 53 -------------------------
+Amir drew 5 of ♦
+Yuval drew 9 of ♥
+Yuval won
+------------------------- Round number 54 -------------------------
+Amir drew 10 of ♥
+Yuval drew 6 of ♠
+Amir won
+------------------------- Round number 55 -------------------------
+Amir drew 4 of ♦
+Yuval drew 9 of ♥
+Yuval won
+------------------------- Round number 56 -------------------------
+Amir drew 2 of ♥
+Yuval drew 5 of ♦
+Yuval won
+------------------------- Round number 57 -------------------------
+Amir drew 4 of ♣
+Yuval drew 4 of ♥
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Jack of ♦
+Yuval drew 7 of ♦
+Amir won the war
+------------------------- Round number 58 -------------------------
+Amir drew 4 of ♠
+Yuval drew 6 of ♣
+Yuval won
+------------------------- Round number 59 -------------------------
+Amir drew 8 of ♠
+Yuval drew Ace of ♦
+Amir won
+------------------------- Round number 60 -------------------------
+Amir drew 5 of ♠
+Yuval drew King of ♦
+Yuval won
+------------------------- Round number 61 -------------------------
+Amir drew Queen of ♣
+Yuval drew 2 of ♦
+Amir won
+------------------------- Round number 62 -------------------------
+Amir drew 5 of ♥
+Yuval drew 10 of ♠
+Yuval won
+------------------------- Round number 63 -------------------------
+Amir drew 8 of ♣
+Yuval drew 10 of ♦
+Yuval won
+------------------------- Round number 64 -------------------------
+Amir drew Ace of ♣
+Yuval drew Jack of ♣
+Yuval won
+------------------------- Round number 65 -------------------------
+Amir drew 7 of ♥
+Yuval drew Ace of ♣
+Amir won
+------------------------- Round number 66 -------------------------
+Amir drew 9 of ♠
+Yuval drew 5 of ♦
+Amir won
+------------------------- Round number 67 -------------------------
+Amir drew King of ♥
+Yuval drew 10 of ♠
+Amir won
+------------------------- Round number 68 -------------------------
+Amir drew Jack of ♠
+Yuval drew Jack of ♣
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Queen of ♠
+Yuval drew 9 of ♥
+Amir won the war
+------------------------- Round number 69 -------------------------
+Amir drew Queen of ♦
+Yuval drew 10 of ♦
+Amir won
+------------------------- Round number 70 -------------------------
+Amir drew 8 of ♦
+Yuval drew 4 of ♠
+Amir won
+------------------------- Round number 71 -------------------------
+Amir drew 5 of ♣
+Yuval drew 5 of ♠
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 3 of ♠
+Yuval drew 6 of ♣
+Yuval won the war
+------------------------- Round number 72 -------------------------
+Amir drew 2 of ♣
+Yuval drew 8 of ♣
+Yuval won
+------------------------- Round number 73 -------------------------
+Amir drew 3 of ♣
+Yuval drew 5 of ♥
+Yuval won
+------------------------- Round number 74 -------------------------
+Amir drew 3 of ♥
+Yuval drew 4 of ♦
+Yuval won
+------------------------- Round number 75 -------------------------
+Amir drew 3 of ♦
+Yuval drew 7 of ♣
+Yuval won
+------------------------- Round number 76 -------------------------
+Amir drew 8 of ♥
+Yuval drew 8 of ♣
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 7 of ♠
+Yuval drew 5 of ♠
+Amir won the war
+------------------------- Round number 77 -------------------------
+Amir drew Queen of ♥
+Yuval drew 10 of ♣
+Amir won
+------------------------- Round number 78 -------------------------
+Amir drew 8 of ♣
+Yuval drew 6 of ♣
+Amir won
+------------------------- Round number 79 -------------------------
+Amir drew 10 of ♥
+Yuval drew 5 of ♣
+Amir won
+------------------------- Round number 80 -------------------------
+Amir drew 2 of ♣
+Yuval drew 5 of ♥
+Yuval won
+------------------------- Round number 81 -------------------------
+Amir drew 4 of ♠
+Yuval drew 3 of ♣
+Amir won
+------------------------- Round number 82 -------------------------
+Amir drew 10 of ♠
+Yuval drew 3 of ♥
+Amir won
+------------------------- Round number 83 -------------------------
+Amir drew King of ♣
+Yuval drew 4 of ♦
+Amir won
+------------------------- Round number 84 -------------------------
+Amir drew 4 of ♥
+Yuval drew 3 of ♦
+Amir won
+------------------------- Round number 85 -------------------------
+Amir drew Jack of ♠
+Yuval drew 7 of ♣
+Amir won
+------------------------- Round number 86 -------------------------
+Amir drew 10 of ♣
+Yuval drew 5 of ♥
+Amir won
+------------------------- Round number 87 -------------------------
+Amir drew Queen of ♦
+Yuval drew 2 of ♣
+Amir won
++++++++++++++++++++++++++++++++++++++++
+Amir won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 -------------------------
+Or drew 4 of ♦
+Shahar drew Jack of ♣
+Shahar won
+------------------------- Round number 2 -------------------------
+Or drew King of ♦
+Shahar drew Jack of ♠
+Or won
+------------------------- Round number 3 -------------------------
+Or drew Jack of ♥
+Shahar drew 5 of ♦
+Or won
+------------------------- Round number 4 -------------------------
+Or drew 8 of ♥
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 5 -------------------------
+Or drew Queen of ♦
+Shahar drew 3 of ♣
+Or won
+------------------------- Round number 6 -------------------------
+Or drew 7 of ♠
+Shahar drew 9 of ♣
+Shahar won
+------------------------- Round number 7 -------------------------
+Or drew 4 of ♥
+Shahar drew 6 of ♦
+Shahar won
+------------------------- Round number 8 -------------------------
+Or drew 2 of ♥
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 9 -------------------------
+Or drew Ace of ♣
+Shahar drew 10 of ♦
+Shahar won
+------------------------- Round number 10 -------------------------
+Or drew 9 of ♦
+Shahar drew 6 of ♥
+Or won
+------------------------- Round number 11 -------------------------
+Or drew Jack of ♦
+Shahar drew 6 of ♣
+Or won
+------------------------- Round number 12 -------------------------
+Or drew King of ♣
+Shahar drew King of ♥
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 9 of ♥
+Shahar drew 8 of ♦
+Or won the war
+------------------------- Round number 13 -------------------------
+Or drew 8 of ♣
+Shahar drew 3 of ♥
+Or won
+------------------------- Round number 14 -------------------------
+Or drew Ace of ♦
+Shahar drew 9 of ♠
+Shahar won
+------------------------- Round number 15 -------------------------
+Or drew 8 of ♠
+Shahar drew 7 of ♦
+Or won
+------------------------- Round number 16 -------------------------
+Or drew Ace of ♥
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 17 -------------------------
+Or drew 7 of ♥
+Shahar drew 7 of ♣
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 3 of ♦
+Shahar drew 10 of ♣
+Shahar won the war
+------------------------- Round number 18 -------------------------
+Or drew 10 of ♥
+Shahar drew 2 of ♣
+Or won
+------------------------- Round number 19 -------------------------
+Or drew 2 of ♦
+Shahar drew Queen of ♠
+Shahar won
+------------------------- Round number 20 -------------------------
+Or drew Ace of ♠
+Shahar drew 4 of ♠
+Shahar won
+------------------------- Round number 21 -------------------------
+Or drew 5 of ♣
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 22 -------------------------
+Or drew 7 of ♦
+Shahar drew 4 of ♥
+Or won
+------------------------- Round number 23 -------------------------
+Or drew Queen of ♥
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 24 -------------------------
+Or drew 8 of ♠
+Shahar drew 8 of ♥
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew Jack of ♥
+Shahar drew 4 of ♦
+Or won the war
+------------------------- Round number 25 -------------------------
+Or drew 3 of ♣
+Shahar drew 7 of ♠
+Shahar won
+------------------------- Round number 26 -------------------------
+Or drew 3 of ♥
+Shahar drew 6 of ♠
+Shahar won
+------------------------- Round number 27 -------------------------
+Or drew 2 of ♣
+Shahar drew 2 of ♥
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 5 of ♦
+Shahar drew 2 of ♦
+Or won the war
+------------------------- Round number 28 -------------------------
+Or drew King of ♥
+Shahar drew Queen of ♠
+Or won
+------------------------- Round number 29 -------------------------
+Or drew 6 of ♥
+Shahar drew 3 of ♦
+Or won
+------------------------- Round number 30 -------------------------
+Or drew King of ♣
+Shahar drew Ace of ♥
+Or won
+------------------------- Round number 31 -------------------------
+Or drew 10 of ♥
+Shahar drew 4 of ♠
+Or won
+------------------------- Round number 32 -------------------------
+Or drew 6 of ♣
+Shahar drew Jack of ♣
+Shahar won
+------------------------- Round number 33 -------------------------
+Or drew 8 of ♣
+Shahar drew 9 of ♠
+Shahar won
+------------------------- Round number 34 -------------------------
+Or drew Queen of ♦
+Shahar drew 7 of ♥
+Or won
+------------------------- Round number 35 -------------------------
+Or drew 9 of ♥
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 36 -------------------------
+Or drew Jack of ♠
+Shahar drew 10 of ♣
+Or won
+------------------------- Round number 37 -------------------------
+Or drew 8 of ♦
+Shahar drew Ace of ♦
+Or won
+------------------------- Round number 38 -------------------------
+Or drew Jack of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 39 -------------------------
+Or drew 5 of ♠
+Shahar drew 5 of ♥
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew Queen of ♦
+Shahar drew 3 of ♠
+Or won the war
+------------------------- Round number 40 -------------------------
+Or drew King of ♣
+Shahar drew 6 of ♠
+Or won
+------------------------- Round number 41 -------------------------
+Or drew 2 of ♣
+Shahar drew Jack of ♦
+Shahar won
+------------------------- Round number 42 -------------------------
+Or drew Queen of ♠
+Shahar drew 7 of ♠
+Or won
+------------------------- Round number 43 -------------------------
+Or drew 10 of ♥
+Shahar drew Jack of ♣
+Shahar won
+------------------------- Round number 44 -------------------------
+Or drew 3 of ♦
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 45 -------------------------
+Or drew 5 of ♦
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 46 -------------------------
+Or drew 8 of ♠
+Shahar drew 3 of ♥
+Or won
+------------------------- Round number 47 -------------------------
+Or drew King of ♦
+Shahar drew 8 of ♣
+Or won
+------------------------- Round number 48 -------------------------
+Or drew 2 of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 49 -------------------------
+Or drew 10 of ♣
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 50 -------------------------
+Or drew 6 of ♦
+Shahar drew 9 of ♥
+Shahar won
+------------------------- Round number 51 -------------------------
+Or drew 8 of ♥
+Shahar drew 3 of ♣
+Or won
+------------------------- Round number 52 -------------------------
+Or drew Ace of ♠
+Shahar drew 6 of ♣
+Shahar won
+------------------------- Round number 53 -------------------------
+Or drew 4 of ♠
+Shahar drew 9 of ♠
+Shahar won
+------------------------- Round number 54 -------------------------
+Or drew 7 of ♣
+Shahar drew Jack of ♣
+Shahar won
+------------------------- Round number 55 -------------------------
+Or drew 6 of ♥
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 56 -------------------------
+Or drew 9 of ♣
+Shahar drew 2 of ♣
+Or won
+------------------------- Round number 57 -------------------------
+Or drew 8 of ♦
+Shahar drew 9 of ♥
+Shahar won
+------------------------- Round number 58 -------------------------
+Or drew 2 of ♥
+Shahar drew Jack of ♦
+Shahar won
+------------------------- Round number 59 -------------------------
+Or drew 2 of ♠
+Shahar drew 6 of ♦
+Shahar won
+------------------------- Round number 60 -------------------------
+Or drew 9 of ♦
+Shahar drew 9 of ♠
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 7 of ♦
+Shahar drew 10 of ♣
+Shahar won the war
+------------------------- Round number 61 -------------------------
+Or drew 4 of ♣
+Shahar drew 4 of ♠
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew Jack of ♠
+Shahar drew Queen of ♥
+Shahar won the war
+------------------------- Round number 62 -------------------------
+Or drew 5 of ♣
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 63 -------------------------
+Or drew Ace of ♦
+Shahar drew 3 of ♦
+Shahar won
+------------------------- Round number 64 -------------------------
+Or drew 9 of ♣
+Shahar drew 5 of ♦
+Or won
+------------------------- Round number 65 -------------------------
+Or drew Queen of ♦
+Shahar drew 10 of ♥
+Or won
+------------------------- Round number 66 -------------------------
+Or drew 8 of ♣
+Shahar drew 5 of ♣
+Or won
+------------------------- Round number 67 -------------------------
+Or drew 7 of ♥
+Shahar drew 9 of ♠
+Shahar won
+------------------------- Round number 68 -------------------------
+Or drew King of ♦
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 69 -------------------------
+Or drew 8 of ♠
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 70 -------------------------
+Or drew Queen of ♠
+Shahar drew 10 of ♠
+Or won
+------------------------- Round number 71 -------------------------
+Or drew 3 of ♥
+Shahar drew 4 of ♣
+Shahar won
+------------------------- Round number 72 -------------------------
+Or drew 10 of ♦
+Shahar drew 2 of ♦
+Or won
+------------------------- Round number 73 -------------------------
+Or drew 8 of ♥
+Shahar drew 6 of ♦
+Or won
+------------------------- Round number 74 -------------------------
+Or drew 3 of ♠
+Shahar drew 2 of ♥
+Or won
+------------------------- Round number 75 -------------------------
+Or drew 5 of ♥
+Shahar drew 4 of ♠
+Or won
+------------------------- Round number 76 -------------------------
+Or drew King of ♣
+Shahar drew 9 of ♥
+Or won
+------------------------- Round number 77 -------------------------
+Or drew 5 of ♠
+Shahar drew King of ♥
+Shahar won
+------------------------- Round number 78 -------------------------
+Or drew 3 of ♣
+Shahar drew Ace of ♦
+Or won
+------------------------- Round number 79 -------------------------
+Or drew 7 of ♠
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 80 -------------------------
+Or drew 4 of ♦
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 81 -------------------------
+Or drew Ace of ♣
+Shahar drew 9 of ♦
+Shahar won
+------------------------- Round number 82 -------------------------
+Or drew 6 of ♠
+Shahar drew 7 of ♣
+Shahar won
+------------------------- Round number 83 -------------------------
+Or drew 2 of ♣
+Shahar drew 6 of ♥
+Shahar won
+------------------------- Round number 84 -------------------------
+Or drew 2 of ♦
+Shahar drew 3 of ♦
+Shahar won
+------------------------- Round number 85 -------------------------
+Or drew 3 of ♠
+Shahar drew 7 of ♦
+Shahar won
+------------------------- Round number 86 -------------------------
+Or drew Queen of ♠
+Shahar drew 4 of ♥
+Or won
+------------------------- Round number 87 -------------------------
+Or drew King of ♣
+Shahar drew Jack of ♣
+Or won
+------------------------- Round number 88 -------------------------
+Or drew Queen of ♦
+Shahar drew 8 of ♦
+Or won
+------------------------- Round number 89 -------------------------
+Or drew 10 of ♠
+Shahar drew 6 of ♣
+Or won
+------------------------- Round number 90 -------------------------
+Or drew King of ♦
+Shahar drew 10 of ♣
+Or won
+------------------------- Round number 91 -------------------------
+Or drew 10 of ♥
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 92 -------------------------
+Or drew 5 of ♥
+Shahar drew Ace of ♥
+Or won
+------------------------- Round number 93 -------------------------
+Or drew 3 of ♣
+Shahar drew Jack of ♦
+Shahar won
+------------------------- Round number 94 -------------------------
+Or drew 5 of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 95 -------------------------
+Or drew 4 of ♠
+Shahar drew 2 of ♠
+Or won
+------------------------- Round number 96 -------------------------
+Or drew Ace of ♠
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 97 -------------------------
+Or drew 6 of ♦
+Shahar drew Jack of ♦
+Shahar won
+------------------------- Round number 98 -------------------------
+Or drew 8 of ♥
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 99 -------------------------
+Or drew 8 of ♣
+Shahar drew 2 of ♣
+Or won
+------------------------- Round number 100 -------------------------
+Or drew 5 of ♣
+Shahar drew 2 of ♦
+Or won
+------------------------- Round number 101 -------------------------
+Or drew 10 of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 102 -------------------------
+Or drew Ace of ♦
+Shahar drew Ace of ♣
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 9 of ♥
+Shahar drew 5 of ♦
+Or won the war
+------------------------- Round number 103 -------------------------
+Or drew Jack of ♣
+Shahar drew 9 of ♠
+Or won
+------------------------- Round number 104 -------------------------
+Or drew 2 of ♠
+Shahar drew King of ♥
+Shahar won
+------------------------- Round number 105 -------------------------
+Or drew 8 of ♦
+Shahar drew 4 of ♦
+Or won
+------------------------- Round number 106 -------------------------
+Or drew Queen of ♦
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 107 -------------------------
+Or drew 10 of ♠
+Shahar drew 3 of ♣
+Or won
+------------------------- Round number 108 -------------------------
+Or drew 2 of ♥
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 109 -------------------------
+Or drew 10 of ♣
+Shahar drew 7 of ♣
+Or won
+------------------------- Round number 110 -------------------------
+Or drew 4 of ♣
+Shahar drew 6 of ♠
+Shahar won
+------------------------- Round number 111 -------------------------
+Or drew King of ♣
+Shahar drew 5 of ♠
+Or won
+------------------------- Round number 112 -------------------------
+Or drew 5 of ♣
+Shahar drew 10 of ♥
+Shahar won
+------------------------- Round number 113 -------------------------
+Or drew 8 of ♣
+Shahar drew 7 of ♥
+Or won
+------------------------- Round number 114 -------------------------
+Or drew Ace of ♦
+Shahar drew 6 of ♥
+Shahar won
+------------------------- Round number 115 -------------------------
+Or drew 5 of ♥
+Shahar drew 3 of ♦
+Or won
+------------------------- Round number 116 -------------------------
+Or drew 4 of ♥
+Shahar drew 3 of ♠
+Or won
+------------------------- Round number 117 -------------------------
+Or drew 8 of ♠
+Shahar drew 7 of ♠
+Or won
+------------------------- Round number 118 -------------------------
+Or drew Ace of ♣
+Shahar drew 7 of ♦
+Shahar won
+------------------------- Round number 119 -------------------------
+Or drew 2 of ♦
+Shahar drew 9 of ♦
+Shahar won
+------------------------- Round number 120 -------------------------
+Or drew 4 of ♠
+Shahar drew 3 of ♥
+Or won
+------------------------- Round number 121 -------------------------
+Or drew 2 of ♣
+Shahar drew 9 of ♦
+Shahar won
+------------------------- Round number 122 -------------------------
+Or drew 9 of ♣
+Shahar drew 5 of ♣
+Or won
+------------------------- Round number 123 -------------------------
+Or drew Ace of ♥
+Shahar drew 4 of ♣
+Shahar won
+------------------------- Round number 124 -------------------------
+Or drew 9 of ♥
+Shahar drew 6 of ♦
+Or won
+------------------------- Round number 125 -------------------------
+Or drew 5 of ♦
+Shahar drew Queen of ♦
+Shahar won
+------------------------- Round number 126 -------------------------
+Or drew Queen of ♠
+Shahar drew 6 of ♠
+Or won
+------------------------- Round number 127 -------------------------
+Or drew King of ♦
+Shahar drew Jack of ♦
+Or won
+------------------------- Round number 128 -------------------------
+Or drew 6 of ♣
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 129 -------------------------
+Or drew King of ♣
+Shahar drew King of ♥
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew King of ♦
+Shahar drew Ace of ♣
+Or won the war
+------------------------- Round number 130 -------------------------
+Or drew 10 of ♠
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 131 -------------------------
+Or drew 3 of ♦
+Shahar drew 8 of ♥
+Shahar won
+------------------------- Round number 132 -------------------------
+Or drew Queen of ♠
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 133 -------------------------
+Or drew 4 of ♦
+Shahar drew Ace of ♦
+Or won
+------------------------- Round number 134 -------------------------
+Or drew Ace of ♠
+Shahar drew 2 of ♠
+Shahar won
+------------------------- Round number 135 -------------------------
+Or drew 10 of ♣
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 136 -------------------------
+Or drew 6 of ♣
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 137 -------------------------
+Or drew 4 of ♥
+Shahar drew 10 of ♦
+Shahar won
+------------------------- Round number 138 -------------------------
+Or drew 5 of ♣
+Shahar drew 7 of ♦
+Shahar won
+------------------------- Round number 139 -------------------------
+Or drew 3 of ♣
+Shahar drew 2 of ♥
+Or won
+------------------------- Round number 140 -------------------------
+Or drew 9 of ♣
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 141 -------------------------
+Or drew Jack of ♦
+Shahar drew 10 of ♥
+Or won
+------------------------- Round number 142 -------------------------
+Or drew 9 of ♥
+Shahar drew 2 of ♠
+Or won
+------------------------- Round number 143 -------------------------
+Or drew 3 of ♠
+Shahar drew 8 of ♥
+Shahar won
+------------------------- Round number 144 -------------------------
+Or drew 5 of ♥
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 145 -------------------------
+Or drew 7 of ♥
+Shahar drew 10 of ♣
+Shahar won
+------------------------- Round number 146 -------------------------
+Or drew 6 of ♠
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 147 -------------------------
+Or drew 4 of ♠
+Shahar drew 10 of ♦
+Shahar won
+------------------------- Round number 148 -------------------------
+Or drew 7 of ♣
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 149 -------------------------
+Or drew 8 of ♠
+Shahar drew Ace of ♥
+Or won
+------------------------- Round number 150 -------------------------
+Or drew 5 of ♠
+Shahar drew 6 of ♣
+Shahar won
+------------------------- Round number 151 -------------------------
+Or drew 8 of ♦
+Shahar drew 2 of ♣
+Or won
+------------------------- Round number 152 -------------------------
+Or drew 8 of ♣
+Shahar drew Queen of ♦
+Shahar won
+------------------------- Round number 153 -------------------------
+Or drew Jack of ♣
+Shahar drew 4 of ♣
+Or won
+------------------------- Round number 154 -------------------------
+Or drew 9 of ♠
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 155 -------------------------
+Or drew 6 of ♦
+Shahar drew Queen of ♠
+Shahar won
+------------------------- Round number 156 -------------------------
+Or drew Jack of ♦
+Shahar drew 3 of ♦
+Or won
+------------------------- Round number 157 -------------------------
+Or drew 3 of ♥
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 158 -------------------------
+Or drew 8 of ♠
+Shahar drew 5 of ♦
+Or won
+------------------------- Round number 159 -------------------------
+Or drew King of ♣
+Shahar drew 5 of ♣
+Or won
+------------------------- Round number 160 -------------------------
+Or drew 9 of ♥
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 161 -------------------------
+Or drew 4 of ♣
+Shahar drew 9 of ♦
+Shahar won
+------------------------- Round number 162 -------------------------
+Or drew 10 of ♥
+Shahar drew 9 of ♣
+Or won
+------------------------- Round number 163 -------------------------
+Or drew Ace of ♣
+Shahar drew 4 of ♥
+Shahar won
+------------------------- Round number 164 -------------------------
+Or drew Ace of ♠
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 165 -------------------------
+Or drew 8 of ♦
+Shahar drew 7 of ♦
+Or won
+------------------------- Round number 166 -------------------------
+Or drew Ace of ♦
+Shahar drew Ace of ♣
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 3 of ♣
+Shahar drew 6 of ♠
+Shahar won the war
+------------------------- Round number 167 -------------------------
+Or drew 7 of ♠
+Shahar drew 10 of ♦
+Shahar won
+------------------------- Round number 168 -------------------------
+Or drew 2 of ♠
+Shahar drew 5 of ♠
+Shahar won
+------------------------- Round number 169 -------------------------
+Or drew Jack of ♣
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 170 -------------------------
+Or drew 2 of ♣
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 171 -------------------------
+Or drew 5 of ♥
+Shahar drew 6 of ♦
+Shahar won
+------------------------- Round number 172 -------------------------
+Or drew 4 of ♦
+Shahar drew 7 of ♥
+Shahar won
+------------------------- Round number 173 -------------------------
+Or drew 2 of ♥
+Shahar drew 10 of ♣
+Shahar won
+------------------------- Round number 174 -------------------------
+Or drew Ace of ♥
+Shahar drew 4 of ♠
+Shahar won
+------------------------- Round number 175 -------------------------
+Or drew 6 of ♥
+Shahar drew 7 of ♣
+Shahar won
+------------------------- Round number 176 -------------------------
+Or drew King of ♥
+Shahar drew 4 of ♥
+Or won
+------------------------- Round number 177 -------------------------
+Or drew King of ♥
+Shahar drew 9 of ♦
+Or won
+------------------------- Round number 178 -------------------------
+Or drew 8 of ♦
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 179 -------------------------
+Or drew 8 of ♠
+Shahar drew 3 of ♥
+Or won
+------------------------- Round number 180 -------------------------
+Or drew 5 of ♦
+Shahar drew 8 of ♥
+Shahar won
+------------------------- Round number 181 -------------------------
+Or drew 5 of ♣
+Shahar drew 9 of ♠
+Shahar won
+------------------------- Round number 182 -------------------------
+Or drew King of ♣
+Shahar drew Queen of ♦
+Or won
+------------------------- Round number 183 -------------------------
+Or drew 9 of ♣
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 184 -------------------------
+Or drew Jack of ♦
+Shahar drew 9 of ♥
+Or won
+------------------------- Round number 185 -------------------------
+Or drew 7 of ♦
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 186 -------------------------
+Or drew 4 of ♥
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 187 -------------------------
+Or drew 10 of ♥
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 188 -------------------------
+Or drew 3 of ♦
+Shahar drew Queen of ♠
+Shahar won
+------------------------- Round number 189 -------------------------
+Or drew King of ♣
+Shahar drew 6 of ♣
+Or won
+------------------------- Round number 190 -------------------------
+Or drew 3 of ♥
+Shahar drew 8 of ♣
+Shahar won
+------------------------- Round number 191 -------------------------
+Or drew Ace of ♠
+Shahar drew 4 of ♠
+Shahar won
+------------------------- Round number 192 -------------------------
+Or drew Jack of ♦
+Shahar drew 4 of ♦
+Or won
+------------------------- Round number 193 -------------------------
+Or drew 9 of ♥
+Shahar drew 10 of ♥
+Shahar won
+------------------------- Round number 194 -------------------------
+Or drew Queen of ♦
+Shahar drew King of ♠
+Shahar won
+------------------------- Round number 195 -------------------------
+Or drew 7 of ♦
+Shahar drew 9 of ♣
+Shahar won
+------------------------- Round number 196 -------------------------
+Or drew 8 of ♠
+Shahar drew Ace of ♣
+Or won
+------------------------- Round number 197 -------------------------
+Or drew 9 of ♦
+Shahar drew 2 of ♦
+Or won
+------------------------- Round number 198 -------------------------
+Or drew King of ♥
+Shahar drew 5 of ♣
+Or won
+------------------------- Round number 199 -------------------------
+Or drew 2 of ♦
+Shahar drew 5 of ♦
+Shahar won
+------------------------- Round number 200 -------------------------
+Or drew 5 of ♣
+Shahar drew Queen of ♠
+Shahar won
+------------------------- Round number 201 -------------------------
+Or drew 4 of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 202 -------------------------
+Or drew Jack of ♦
+Shahar drew 5 of ♥
+Or won
+------------------------- Round number 203 -------------------------
+Or drew 6 of ♣
+Shahar drew 3 of ♥
+Or won
+------------------------- Round number 204 -------------------------
+Or drew Ace of ♣
+Shahar drew Jack of ♣
+Shahar won
+------------------------- Round number 205 -------------------------
+Or drew King of ♥
+Shahar drew 2 of ♣
+Or won
+------------------------- Round number 206 -------------------------
+Or drew 8 of ♠
+Shahar drew 2 of ♠
+Or won
+------------------------- Round number 207 -------------------------
+Or drew King of ♣
+Shahar drew King of ♦
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 2 of ♠
+Shahar drew 4 of ♥
+Shahar won the war
+------------------------- Round number 208 -------------------------
+Or drew 8 of ♠
+Shahar drew 7 of ♠
+Or won
+------------------------- Round number 209 -------------------------
+Or drew 2 of ♣
+Shahar drew 8 of ♥
+Shahar won
+------------------------- Round number 210 -------------------------
+Or drew 6 of ♣
+Shahar drew Queen of ♥
+Shahar won
+------------------------- Round number 211 -------------------------
+Or drew Jack of ♦
+Shahar drew 3 of ♣
+Or won
+------------------------- Round number 212 -------------------------
+Or drew King of ♥
+Shahar drew 7 of ♣
+Or won
+------------------------- Round number 213 -------------------------
+Or drew 5 of ♥
+Shahar drew 8 of ♦
+Shahar won
+------------------------- Round number 214 -------------------------
+Or drew 7 of ♣
+Shahar drew 6 of ♥
+Or won
+------------------------- Round number 215 -------------------------
+Or drew 3 of ♣
+Shahar drew 7 of ♥
+Shahar won
+------------------------- Round number 216 -------------------------
+Or drew Jack of ♦
+Shahar drew Ace of ♥
+Or won
+------------------------- Round number 217 -------------------------
+Or drew King of ♥
+Shahar drew 10 of ♦
+Or won
+------------------------- Round number 218 -------------------------
+Or drew 8 of ♠
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 219 -------------------------
+Or drew 7 of ♠
+Shahar drew 10 of ♣
+Shahar won
+------------------------- Round number 220 -------------------------
+Or drew 6 of ♥
+Shahar drew 10 of ♠
+Shahar won
+------------------------- Round number 221 -------------------------
+Or drew 7 of ♣
+Shahar drew 6 of ♠
+Or won
+------------------------- Round number 222 -------------------------
+Or drew 10 of ♦
+Shahar drew Jack of ♠
+Shahar won
+------------------------- Round number 223 -------------------------
+Or drew Jack of ♦
+Shahar drew 9 of ♠
+Or won
+------------------------- Round number 224 -------------------------
+Or drew Ace of ♥
+Shahar drew 6 of ♦
+Shahar won
+------------------------- Round number 225 -------------------------
+Or drew King of ♥
+Shahar drew 3 of ♦
+Or won
+------------------------- Round number 226 -------------------------
+Or drew 7 of ♣
+Shahar drew 3 of ♠
+Or won
+------------------------- Round number 227 -------------------------
+Or drew 9 of ♠
+Shahar drew Ace of ♦
+Or won
+------------------------- Round number 228 -------------------------
+Or drew 3 of ♦
+Shahar drew 8 of ♣
+Shahar won
+------------------------- Round number 229 -------------------------
+Or drew King of ♥
+Shahar drew 2 of ♥
+Or won
+------------------------- Round number 230 -------------------------
+Or drew Jack of ♦
+Shahar drew Queen of ♣
+Shahar won
+------------------------- Round number 231 -------------------------
+Or drew 6 of ♠
+Shahar drew 2 of ♦
+Or won
+------------------------- Round number 232 -------------------------
+Or drew 2 of ♦
+Shahar drew Jack of ♥
+Shahar won
+------------------------- Round number 233 -------------------------
+Or drew 2 of ♥
+Shahar drew Ace of ♠
+Or won
+------------------------- Round number 234 -------------------------
+Or drew 6 of ♠
+Shahar drew 8 of ♣
+Shahar won
+------------------------- Round number 235 -------------------------
+Or drew Ace of ♦
+Shahar drew Queen of ♠
+Shahar won
+------------------------- Round number 236 -------------------------
+Or drew 9 of ♠
+Shahar drew 5 of ♦
+Or won
+------------------------- Round number 237 -------------------------
+Or drew King of ♥
+Shahar drew 4 of ♣
+Or won
+------------------------- Round number 238 -------------------------
+Or drew 7 of ♣
+Shahar drew 8 of ♥
+Shahar won
+------------------------- Round number 239 -------------------------
+Or drew 3 of ♠
+Shahar drew 8 of ♠
+Shahar won
+------------------------- Round number 240 -------------------------
+Or drew Ace of ♠
+Shahar drew 10 of ♣
+Shahar won
+------------------------- Round number 241 -------------------------
+Or drew 9 of ♠
+Shahar drew 4 of ♥
+Or won
+------------------------- Round number 242 -------------------------
+Or drew King of ♥
+Shahar drew King of ♦
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 5 of ♦
+Shahar drew Jack of ♠
+Shahar won the war
+------------------------- Round number 243 -------------------------
+Or drew 4 of ♥
+Shahar drew 6 of ♥
+Shahar won
+------------------------- Round number 244 -------------------------
+Or drew 9 of ♠
+Shahar drew 10 of ♦
+Shahar won
++++++++++++++++++++++++++++++++++++++++
+Shahar won the game!
+
+
