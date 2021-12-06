@@ -26,10 +26,8 @@ public class Deck {
     }
 
     boolean isEmpty() {
-        for (Card card : deck)
-            //for (int i = 0; i < deck.length - 1; i++)
-            if (card != null)
-                return false;
+        if (deck[0] != null)
+            return false;
         return true;
     }
 
