@@ -3,14 +3,16 @@ import java.util.Random;
 public class Deck {
 
     Card[] deck;
+    private static final int cardamount=52;
+    private static final int suitAmount=13;
     private int counterAdd = 0, counterRemove = 0;
 
     public Deck(boolean set) {
-        deck = new Card[52];
+        deck = new Card[cardamount];
         if (set)
             for (Suit type : Suit.values())
                 for (int val = 1; val <= Card.cardValue.length; val++)
-                    deck[(type.showType() * 13) - 1 + val] = new Card(type, val);
+                    deck[(type.showType() * suitAmount) - 1 + val] = new Card(type, val);
     }
 
     public void addCard(Card card) {
