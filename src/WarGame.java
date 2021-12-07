@@ -12,11 +12,13 @@ public class WarGame {
     public void initializeGame(){
         Deck deck =new Deck(true);
         deck.shuffle();
-        if( ((player1.toString()).compareTo(player2.toString()))>=0){
+        if( ((player1.toString()).compareTo(player2.toString())) >= 0){
             while (deck[0] != null){
                 player1.drawDeck.addCard(deck.removeTopCard());
             }
         }
+    }
+    public String start(){
 
     }
 
