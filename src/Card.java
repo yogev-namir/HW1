@@ -21,7 +21,8 @@ public class Card{
         return Integer.compare(this.getValue(), other.getValue());
     }
     public String toString(){
-        return cardValue[value-1] + "of" + cardType[type.showType()-1];
+        //return cardValue[value-1] + "of" + cardType[type.showType()-1];
+        return cardValue[value-1] + "of" + cardType[type.showType()];
     }
 
 }

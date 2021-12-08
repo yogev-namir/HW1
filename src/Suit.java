@@ -9,6 +9,6 @@ public enum Suit {
         type = val;
     }
     int showType(){
-        return type;
+         return type;
     }
 }
