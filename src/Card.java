@@ -9,16 +9,19 @@ public class Card{
         this.type = type;
         this.value = value;
     }
+
     public int getValue() {
         return value;
     }
     public Suit getType() {
         return type;
     }
+
     public int compare(Card other){
         return Integer.compare(this.getValue(), other.getValue());
     }
     public String toString(){
         return cardValue[value-1] + "of" + cardType[type.showType()-1];
     }
+
 }

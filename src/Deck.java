@@ -5,7 +5,6 @@ public class Deck {
     Card[] deck;
     private static final int cardAmount =52;
     private static final int suitAmount=13;
-    private int counterAdd = 0, counterRemove = 0;
 
     public Deck(boolean set) {
         deck = new Card[cardAmount];
@@ -16,41 +15,35 @@ public class Deck {
                             new Card(type, val);
     }
 
-    public void addCard(Card card) {
-        deck[counterAdd++] = card;
+    public int topCard(){
+        for(int i=deck.length-1; i>=0; i--)
+            if(deck[i]!=null)
+                return i;
+        return 0;
     }
-
+    public void addCard(Card card) {
+        deck[topCard()] = card;
+    }
     public Card removeTopCard() {
-        int current = deck.length - (counterRemove++);
-        Card topCard = new Card(deck[current - 1].getType(),
-                deck[current - 1].getValue());
-        deck[current - 1] = null;
+        Card topCard = new Card(deck[topCard()].getType(),
+                deck[topCard()].getValue());
+        deck[topCard()] = null;
         return topCard;
     }
 
     boolean isEmpty() {
-        if (deck[0] != null)
-            return false;
-        return true;
+        return deck[0] != null;
     }
 
     public void shuffle() {
-        Random ran = new Random();
+        Random rnd = new Random();
         for (Card card : deck) {
             if (card != null) {
-                int next = ran.nextInt(52);
+                int next = rnd.nextInt(cardAmount);
                 Card rndCard = card;
                 deck[next] = card;
                 card = rndCard;
             }
         }
-        /*for (int i = 0; i < deck.length - 1; i++) {
-            if (deck[i] != null) {
-                int nxt = ran.nextInt(52);
-                Card rndCard=deck[nxt];
-                deck[nxt]=deck[i];
-                deck[i] = rndCard;
-            }
-        }*/
     }
 }

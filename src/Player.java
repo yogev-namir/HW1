@@ -10,8 +10,8 @@ public class Player {
 
     //public String getName() {return this.name};
 
-    public void addCard(Card card, boolean playingdeck){
-        if(playingdeck){
+    public void addCard(Card card, boolean playingDeck){
+        if(playingDeck){
             drawDeck.addCard(card);
         }
         else{
