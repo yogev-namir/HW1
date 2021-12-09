@@ -16,33 +16,58 @@ public class Deck {
     }
 
     public int topCard(){
-        for(int i=deck.length-1; i>=0; i--)
-            if(deck[i]!=null)
+        int i;
+        for( i=this.deck.length-1;i>=0; i--)
+            if(this.deck[i]!=null)
                 return i;
-        return 0;
+        return i;
     }
     public void addCard(Card card) {
-        deck[topCard()] = card;
+
+        if(isEmpty())
+            this.deck[0]=card;
+
+        if((topCard()!=this.deck.length-1))
+            this.deck[topCard()+1] = card;
+
+
+
     }
     public Card removeTopCard() {
-        Card topCard = new Card(deck[topCard()].getType(),
-                deck[topCard()].getValue());
-        deck[topCard()] = null;
-        return topCard;
+        if(topCard()>=0) {
+            Card topCard;
+            topCard = new Card(deck[topCard()].getType(),
+                    deck[topCard()].getValue());
+            deck[topCard()] = null;
+            return topCard;
+        }
+
+else
+    return null;
+
     }
 
-    boolean isEmpty() {
-        return deck[0] != null;
+   public boolean isEmpty() {
+        return deck[0] == null;
     }
+
+/*
+    int a = ar[index];
+    ar[index] = ar[i];
+    ar[i] = a;
+
+*/
+
+
 
     public void shuffle() {
         Random rnd = new Random();
-        for (Card card : deck) {
-            if (card != null) {
+        for (int i=0;i<deck.length;i++) {
+            if (deck[i] != null) {
                 int next = rnd.nextInt(cardAmount);
-                Card rndCard = card;
-                deck[next] = card;
-                card = rndCard;
+                Card rndCard =deck[i];
+                deck[i] =deck[next];
+                deck[next] = rndCard;
             }
         }
     }

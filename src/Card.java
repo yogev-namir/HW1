@@ -18,10 +18,18 @@ public class Card{
     }
 
     public int compare(Card other){
+        if(other.getValue()!=1 && this.getValue()!=1)
         return Integer.compare(this.getValue(), other.getValue());
+        else
+            if((this.getValue()==1) && (Integer.compare(this.getValue(), other.getValue())!=1))
+                return 1;
+            else
+                return -1;
+
     }
+
     public String toString(){
-        return cardValue[value-1] + "of" + cardType[type.showType()-1];
+        return (cardValue[value-1] + " of " + cardType[type.showType()]);
     }
 
 }

@@ -10,7 +10,7 @@ public class Player {
 
     //public String getName() {return this.name};
 
-    public void addCard(Card card, boolean playingDeck){
+   /* public void addCard(Card card, boolean playingDeck){
         if(playingDeck){
             drawDeck.addCard(card);
         }
@@ -19,6 +19,8 @@ public class Player {
         }
 
     }
+    */
+
     public Card drawCard() {return drawDeck.removeTopCard();}
 
     public boolean outOfCards(){
