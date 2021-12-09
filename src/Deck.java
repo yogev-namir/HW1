@@ -27,7 +27,7 @@ public class Deck {
         if(isEmpty())
             this.deck[0]=card;
 
-        if((topCard()!=this.deck.length-1))
+       else if((topCard()!=this.deck.length-1))
             this.deck[topCard()+1] = card;
 
 
