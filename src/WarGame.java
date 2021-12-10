@@ -5,13 +5,19 @@ public class WarGame {
     public Deck warDeck;
    // private int round = 1;
 
-
+/**
+     * initializes a package and 2 name of the players as required
+     * @param pOne: the name of the first player
+     * @param pTwo: the name of the second player
+     */
     public WarGame(String pOne, String pTwo) {
         player1 = new Player(pOne);
         player2 = new Player(pTwo);
         warDeck = new Deck(false);
     }
-
+ /**
+     * initializes the game, shuffle the deck and deal the cards among the players
+     */
     public void initializeGame() {
         Deck deck = new Deck(true);
         deck.shuffle();
@@ -29,11 +35,15 @@ public class WarGame {
 
         }
     }
-
+ /**
+     * checking which player supposed to be the first ti play according to alphabetic order
+     */
     public int alphabetOrder() {
         return (this.player1.toString()).compareTo(this.player2.toString());
     }
-
+ /**
+     *checking if the drawing deck is empty and if so ,it shuffles the storeDeck and add it to the drawing one.
+     */
     public void isDrawDeckEmpty(Player player) {
         if (player.drawDeck.isEmpty()) {
             player.storeDeck.shuffle();
@@ -47,7 +57,11 @@ public class WarGame {
 
 
     }
-
+/**
+     * the scenario of the war itself
+     * @param first: the  first player
+     * @param second: the  second player
+     */
     public void warHand(Player first, Player second) {
         int rounds = 2;
         while (rounds-- > 0 &&(!player1.outOfCards() && !player2.outOfCards()) ){
@@ -68,18 +82,24 @@ public class WarGame {
             finalWinner();
         }
 
-
+ /**
+     *adding the card to warDeck and print it
+     */
     public void printHand(Player player, Card card) {
         warDeck.addCard(card);
         System.out.println(player.toString() + " drew " + card.toString());
 
 
     }
-
+ /**
+     *announcing the winner of each round
+     */
     public void announceWinner(Player player) {
         System.out.println(player.toString() + " won");
     }
-
+ /**
+     *returns the name od=f final winner of the game
+     */
     public String finalWinner()
     {
         if(player1.outOfCards())
@@ -88,6 +108,10 @@ public class WarGame {
             return player1.toString();
 
     }
+    /**
+     * runs the game according to the laws of "war game"
+     * @return: the name of the winner in the game
+     */
     public String start() {
         int round=1;
         System.out.println("Initializing the game...");
@@ -151,7 +175,10 @@ public class WarGame {
 
     }
 
-
+/**
+     * calls to the function that runs the war scenario
+     *
+     */
     public void war(Player first, Player second){
         warHand(first,second);
          gameplay(first,second,true);
