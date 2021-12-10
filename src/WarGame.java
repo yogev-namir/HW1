@@ -36,13 +36,15 @@ public class WarGame {
         }
     }
  /**
-     * checking which player supposed to be the first ti play according to alphabetic order
+     * checking which player supposed to be the first ti play 
+        according to alphabetic order
      */
     public int alphabetOrder() {
         return (this.player1.toString()).compareTo(this.player2.toString());
     }
  /**
-     *checking if the drawing deck is empty and if so ,it shuffles the storeDeck and add it to the drawing one.
+     *checking if the drawing deck is empty and if so ,it shuffles the storeDeck 
+     and add it to the drawing one.
      */
     public void isDrawDeckEmpty(Player player) {
         if (player.drawDeck.isEmpty()) {
