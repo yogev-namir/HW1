@@ -17,7 +17,10 @@ public class Deck {
                     deck[(type.showType() * suitAmount) - 1 + val] =
                             new Card(type, val);
     }
-
+ /**
+     * Provide the index of the top card in the deck  
+     *
+     */
     public int topCard(){
         int i;
         for( i=this.deck.length-1;i>=0; i--)
