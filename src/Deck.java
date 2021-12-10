@@ -59,12 +59,11 @@ else
 */
 
 
-
-    public void shuffle() {
+public void shuffle() {
         Random rnd = new Random();
         for (int i=0;i<deck.length;i++) {
-            if (deck[i] != null) {
-                int next = rnd.nextInt(cardAmount);
+            int next = rnd.nextInt(cardAmount);
+            if (deck[i] != null && deck[next]!=null ) {
                 Card rndCard =deck[i];
                 deck[i] =deck[next];
                 deck[next] = rndCard;
@@ -72,3 +71,4 @@ else
         }
     }
 }
+
