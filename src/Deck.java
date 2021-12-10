@@ -5,7 +5,10 @@ public class Deck {
     Card[] deck;
     private static final int cardAmount =52;
     private static final int suitAmount=13;
-
+/**
+     * initializes the package as required
+     * @param set: tells us whether to initialize the Pack
+     */
     public Deck(boolean set) {
         deck = new Card[cardAmount];
         if (set)
@@ -22,6 +25,10 @@ public class Deck {
                 return i;
         return i;
     }
+     /**
+     * get a card, and adds it as the top card in the pack
+     * @param card: the card required to be added to the pack
+     */
     public void addCard(Card card) {
 
         if(isEmpty())
@@ -33,6 +40,10 @@ public class Deck {
 
 
     }
+    /**
+     * remove the card that found at the top of the pack
+     * @return : the card that removed from the pack
+     */
     public Card removeTopCard() {
         if(topCard()>=0) {
             Card topCard;
@@ -46,7 +57,10 @@ else
     return null;
 
     }
-
+ /**
+     * check if the pack is empty
+     * @return : true if the pack is empty, otherwise false
+     */
    public boolean isEmpty() {
         return deck[0] == null;
     }
@@ -57,7 +71,9 @@ else
     ar[i] = a;
 
 */
-
+/**
+     * shuffle the pack- change the location of all the cards in the deck
+     */
 
 public void shuffle() {
         Random rnd = new Random();
