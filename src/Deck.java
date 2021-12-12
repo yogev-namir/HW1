@@ -3,9 +3,8 @@ import java.util.Random;
 public class Deck {
 
     Card[] deck;
-    private static final int cardAmount = 52;
-    private static final int suitAmount = 13;
-    private final int emptyDeck = -1;
+    private static final int cardAmount =52;
+    private static final int suitAmount=13;
 
     public Deck(boolean set) {
         deck = new Card[cardAmount];
@@ -20,17 +19,15 @@ public class Deck {
         for(int i=deck.length-1; i>=0; i--)
             if(deck[i]!=null)
                 return i;
-        return emptyDeck;
+        return 0;
     }
     public void addCard(Card card) {
-        deck[topCard()+1]= card;
+        deck[topCard()] = card;
     }
     public Card removeTopCard() {
-        int topCardIndex=topCard();
-        if(topCardIndex<0) topCardIndex++;
-        Card topCard = new Card(deck[topCardIndex].getType(),
-                            deck[topCardIndex].getValue());
-        deck[topCardIndex] = null;
+        Card topCard = new Card(deck[topCard()].getType(),
+                deck[topCard()].getValue());
+        deck[topCard()] = null;
         return topCard;
     }
 

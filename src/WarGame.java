@@ -14,24 +14,15 @@ public class WarGame {
     public void initializeGame(){
         Deck deck =new Deck(true);
         deck.shuffle();
-        if( alphabetOrder() <= 0){
+        if( alphabetOrder() >= 0){
             while (deck.deck[0] != null){
                 player1.drawDeck.addCard(deck.removeTopCard());
                 player2.drawDeck.addCard(deck.removeTopCard());
-            }
-        }
-        else{
-            while (deck.deck[0] != null){
-                player2.drawDeck.addCard(deck.removeTopCard());
-                player1.drawDeck.addCard(deck.removeTopCard());
             }
         }
     }
     public int alphabetOrder(){
-        String first ,second;
-        first = this.player1.toString();
-        second = this.player2.toString();
-        return first.compareTo(second);
+        return (this.player1.toString()).compareTo(this.player2.toString());
     }
     public String start(){
 
@@ -42,7 +33,7 @@ public class WarGame {
                     "" + (round++) + " -------------------------");
             isDrawDeckEmpty(player1);
             isDrawDeckEmpty(player2);
-            if(alphabetOrder() <= 0)
+            if(alphabetOrder() >= 0)
                 gameplay(player1,player2,false);
             else
                 gameplay(player2, player1,false);
