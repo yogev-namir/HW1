@@ -14,17 +14,16 @@ public class Player {
 
     //public String getName() {return this.name};
 
-   /* public void addCard(Card card, boolean playingDeck){
+    public void addCard(Card card, boolean playingDeck){
         if(playingDeck){
             drawDeck.addCard(card);
         }
         else{
             storeDeck.addCard(card);
         }
-
     }
-    */
- /**
+
+    /**
      * draw a card
      * @return: the card we wand to draw
      */
@@ -34,12 +33,12 @@ public class Player {
      * check if the 2 pack is empty
      * @return : true if the 2 pack is empty, otherwise false
      */
-   
-         
+
+
     public boolean outOfCards(){
         return drawDeck.isEmpty() && storeDeck.isEmpty();
     }
-     /**
+    /**
      * return the name of the player
      * @return : the name of the player
      */
