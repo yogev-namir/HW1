@@ -23,16 +23,11 @@ public class WarGame {
             while (deck.deck[0] != null) {
                 player1.addCard(deck.removeTopCard(),true);
                 player2.addCard(deck.removeTopCard(),true);
-             //   player1.drawDeck.addCard(deck.removeTopCard());
-               // player2.drawDeck.addCard(deck.removeTopCard());
             }
         } else {
             while (deck.deck[0] != null) {
                 player2.addCard(deck.removeTopCard(),true);
                 player1.addCard(deck.removeTopCard(),true);
-                //player2.drawDeck.addCard(deck.removeTopCard());
-               // player1.drawDeck.addCard(deck.removeTopCard());
-
             }
 
         }
@@ -51,40 +46,21 @@ public class WarGame {
     public void isDrawDeckEmpty(Player player) {
         if (player.drawDeck.isEmpty()) {
             player.storeDeck.shuffle();
-            while (!player.storeDeck.isEmpty()) {
-                Card card = player.storeDeck.removeTopCard();
-                player.addCard(card,true);
-               // player.drawDeck.addCard(card);
-            }
-
+            int topCard= player.storeDeck.topCard();
+            for(int i=0; i<=topCard; i++)
+                player.addCard(player.storeDeck.deck[i],true);
+            player.storeDeck.clearDeck();
         }
-
-
-
     }
     /**
      * the scenario of the war itself
      * @param first: the  first player
      * @param second: the  second player
      */
-    public void warHand(Player first, Player second) {
-        int rounds = 2;
-        while (rounds-- > 0 &&(!first.outOfCards() && !second.outOfCards()) ){
-
-            isDrawDeckEmpty(first);
-            warDeck.addCard(first.drawCard());
-          //  if(first.outOfCards())
-              // break;
-            System.out.println(first.toString() + " drew a war card");
-            // finalWinner();
-            isDrawDeckEmpty(second);
-            warDeck.addCard(second.drawCard());
-         //  if(second.outOfCards())
-              // break;
-            System.out.println(second.toString() + " drew a war card");
-            //  finalWinner();
-        }
-
+    public void warHand(Player player) {
+            isDrawDeckEmpty(player);
+            warDeck.addCard(player.drawCard());
+            System.out.println(player.toString() + " drew a war card");
     }
 
     /**
@@ -182,8 +158,6 @@ public class WarGame {
                 war(first, second);
             }
         }
-
-
     }
 
     /**
@@ -191,7 +165,11 @@ public class WarGame {
      *
      */
     public void war(Player first, Player second){
-        warHand(first,second);
+        int rounds = 2;
+        while (rounds-- >0 &&(!first.outOfCards() && !second.outOfCards())) {
+            warHand(first);
+            warHand(second);
+        }
         gameplay(first,second,true);
     }
 

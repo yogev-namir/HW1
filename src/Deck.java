@@ -80,9 +80,7 @@ public class Deck {
     public void shuffle() {
         int next;
        // int current;
-
                 for (int i = 0; i <topCard()+1; i++) {
-
                     next = Main.rnd.nextInt(topCard()+1);
                    // current= Main.rnd.nextInt(topCard()+1);
                    // if(deck[next]!=null && deck[i]!=null) {
@@ -91,11 +89,14 @@ public class Deck {
                         deck[next] = rndCard;
 
                    // }
-
                 }
-
-
            // }
         }
-    }
 
+    public void clearDeck(){
+        for(int i = topCard(); i<=0; i--){
+            this.deck[i]=null;
+        }
+
+    }
+}
