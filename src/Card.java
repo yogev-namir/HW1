@@ -26,10 +26,7 @@ public class Card{
      * @return which of the cards values is higher
      */
     public int compare(Card other){
-
             return Integer.compare(this.getValue(), other.getValue());
-
-
     }
     /**
      * Create a string with the value of the Card and his shape

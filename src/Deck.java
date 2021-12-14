@@ -94,7 +94,7 @@ public class Deck {
         }
 
     public void clearDeck(){
-        for(int i = topCard(); i<=0; i--){
+        for(int i = this.topCard(); i>=0; i--){
             this.deck[i]=null;
         }
 
