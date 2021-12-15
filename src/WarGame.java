@@ -100,7 +100,6 @@ public class WarGame {
         isDrawDeckEmpty(first);
         isDrawDeckEmpty(second);
 
-
         if(!first.outOfCards() && !second.outOfCards()) {
             Card firstHand = first.drawCard(), secondHand = second.drawCard();
 
