@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
-
+/**A game of "Card War"*/
 public class Main {
     public static Random rnd;
 

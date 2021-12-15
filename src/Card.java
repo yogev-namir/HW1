@@ -13,7 +13,6 @@ public class Card{
         this.type = type;
         this.value = value;
     }
-
     public int getValue() {
         return value;
     }
@@ -21,7 +20,7 @@ public class Card{
         return type;
     }
     /**
-     * Compares 2 cards and checks who is bigger
+     * Compares two cards and checks which value is greater
      * @param other: object from Card type
      * @return which of the cards values is higher
      */
@@ -29,8 +28,8 @@ public class Card{
             return Integer.compare(this.getValue(), other.getValue());
     }
     /**
-     * Create a string with the value of the Card and his shape
-     * @return value and  shape of the Card
+     * Creates a string with the value and type of the Card
+     * @return card's value and type
      */
     public String toString(){
         return (cardValue[value-1] + " of " + cardType[type.showType()]);
